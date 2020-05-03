@@ -64,7 +64,7 @@ The objective of this project is to provide an analysis of ride-shared trips wit
         
         
 
-# Results are shown in the Wiki page depicting the analysis
+# Graph results depicting the analysis
   - The results are shown in **graphresults.pdf**. It is also available in the **finalreport.pdf**
   
 # Running the program for only 5 mins.
@@ -82,5 +82,5 @@ The objective of this project is to provide an analysis of ride-shared trips wit
   - The system has to be setup as specified in the system configuration.
   - Ensure that MySQL and docker api is functional.
   - Ensure that python is sucessfuly installed and modules are installed.
-  - Ensure that the two *algorithm files*,mysqlUtilites.py, datapreprocessing.py are in the same project folder
+  - Ensure that the two **algorithm files**,mysqlUtilites.py, datapreprocessing.py are in the same project folder
   - Open command prompt, type 'python fileName.py', where fileName is one of the algorithm files.
