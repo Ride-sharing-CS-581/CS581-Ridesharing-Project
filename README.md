@@ -1,24 +1,33 @@
-# ridesharing
-CS-581 Ridesharing project final 
+# Ridesharing
+  - CS-581 Ridesharing Project
+  - **Team Members**
+      - Arvind Ganesan
+      - Varunya Yanamadala
+      - Rakshitha Jayarame Gowda
+      - Sachin Dattatraya Hegde
 
 # System setup
   - Install MySQL server 8 and MySQL workbench. Ensure that workbench is able to connect to local mysql server using 'root' user and password as 'root'. This user name and password is used inside the project.
   - Install Python 3.5 and above. If 'pip' module is not installed, it has to be installed separately
   - Install these python modules: pandas, networkx, mysql-connector
   - Install Docker or Docker Toolbox from the following links : 
-      - TBD
-      - TBD
+      - **Docker**
+          - Windows: https://docs.docker.com/docker-for-windows/install/
+          - Ubuntu : https://docs.docker.com/engine/install/ubuntu/
+      - **Docker Toolbox**
+          - Windows: https://docs.docker.com/toolbox/toolbox_install_windows/
       For Windows 10 users, Windows 10 Pro edition is required to setup Docker. If Windows 10 Home is present, Install Docker ToolBox.
-  - Download newyork osrm file from the link : TBD
-  - Follow the instructions for setting up local osrm server from this link : 
+  - Download newyork osrm file from the link : http://download.geofabrik.de/north-america/us/new-york-latest.osm.pbf
+  - Follow the instructions for setting up local osrm server from this link : https://hub.docker.com/r/osrm/osrm-backend/
   - The minimum ram requirement is 12GB with no other higher process consuming ram. Depending on system configuration, the process may 
     take from 10 minutes - 1.5 hours. The process was tested on Mac System, Google Cloud VM with 16GB ram and 30GB SSD free space.
     
 # Analysing tables
   - Create a database called 'ride_sharing'
   - Create the tables: taxitrips_v2, intersections, pool_details. Use the schema given inside Schema Folder.
-  - In database folder, there is a .sql file to taxitrips_V2 table. Using MySQL workbench , the data can be populated to your MySQL database by importing the .sql file and running it.
-  - Populate pool_details table with data only if you just want to run queries to get insights on already processed data. Else, there is no need to populate that table's contents to your local table.
+  - In database folder, there is a .sql file with preexisting data of taxitrips_v2 using MySQL workbench , the data can be populated to your MySQL database by importing the .sql file and running it.
+  - Populate pool_details table with existing data only if you just want to run queries to get insights on already processed data. Else, there is no need to populate that table's contents to your local table.
+  - Populate intersections table with the given .sql file. This is very important for the algorithm to use precomputed intersections.
  
 # Running the algorithm
   - File : *Forming_pairs_delay_algo.py* :  
