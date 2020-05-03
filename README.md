@@ -40,7 +40,7 @@
   - Populate intersections table with the given .sql file. This is very important for the algorithm to use precomputed intersections.
   
 # Before running the algorithm, check the Configuration Parameters section in Wiki.
--   Link : 
+-   Link : https://github.com/Ride-sharing-CS-581/ridesharing/wiki
 
 # Results are shown in the Wiki page depicting the analysis
   - For each of pool window size : 5, 7, and 10 mins, average distance saved per pool, average trips saved per pool and average computation time is shown
