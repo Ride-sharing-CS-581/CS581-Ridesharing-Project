@@ -1,0 +1,2933 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="Overpass API 0.7.56.3 eb200aeb">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2020-04-30T05:02:03Z"/>
+
+  <node id="42466943" lat="40.6944848" lon="-73.9373442"/>
+  <node id="42473215" lat="40.6948206" lon="-73.9344204"/>
+  <node id="42477901" lat="40.6927940" lon="-73.9520500"/>
+  <node id="42477903" lat="40.6931720" lon="-73.9487680"/>
+  <node id="42477905" lat="40.6934970" lon="-73.9459320"/>
+  <node id="42477907" lat="40.6938242" lon="-73.9430891"/>
+  <node id="42477909" lat="40.6941478" lon="-73.9402670"/>
+  <node id="42477912" lat="40.6951150" lon="-73.9319290"/>
+  <node id="42466971" lat="40.6864276" lon="-73.9357393"/>
+  <node id="42473266" lat="40.6867633" lon="-73.9328107"/>
+  <node id="42479148" lat="40.6881150" lon="-73.9210320"/>
+  <node id="42481583" lat="40.6847350" lon="-73.9504460">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42482366" lat="40.6851130" lon="-73.9471650">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42485022" lat="40.6874382" lon="-73.9269653"/>
+  <node id="42486638" lat="40.6837500" lon="-73.9589830"/>
+  <node id="42486640" lat="40.6840660" lon="-73.9562570">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42486644" lat="40.6843130" lon="-73.9541010">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42486650" lat="40.6854390" lon="-73.9443280">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42486654" lat="40.6857638" lon="-73.9414955"/>
+  <node id="42486657" lat="40.6860910" lon="-73.9386592"/>
+  <node id="42486667" lat="40.6871000" lon="-73.9298880"/>
+  <node id="42486677" lat="40.6878110" lon="-73.9236890"/>
+  <node id="2564942589" lat="40.6882683" lon="-73.9199045"/>
+  <node id="42466939" lat="40.6952183" lon="-73.9374903"/>
+  <node id="42473213" lat="40.6955530" lon="-73.9345667"/>
+  <node id="42482234" lat="40.6939050" lon="-73.9489140"/>
+  <node id="42492340" lat="40.6942300" lon="-73.9460780"/>
+  <node id="42492342" lat="40.6945590" lon="-73.9432344"/>
+  <node id="42492346" lat="40.6948807" lon="-73.9404133">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42492357" lat="40.6957910" lon="-73.9331180"/>
+  <node id="42492360" lat="40.6970814" lon="-73.9318458">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="4562139153" lat="40.6934672" lon="-73.9521886"/>
+  <node id="42466970" lat="40.6871583" lon="-73.9358848"/>
+  <node id="42473262" lat="40.6874947" lon="-73.9329569"/>
+  <node id="42481581" lat="40.6854686" lon="-73.9505903"/>
+  <node id="42482358" lat="40.6858455" lon="-73.9473099">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42485017" lat="40.6881663" lon="-73.9271121"/>
+  <node id="42493907" lat="40.6885429" lon="-73.9238344"/>
+  <node id="42495183" lat="40.6844871" lon="-73.9591322">
+    <tag k="highway" v="stop"/>
+    <tag k="stop" v="minor"/>
+  </node>
+  <node id="42495185" lat="40.6848006" lon="-73.9564033">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42495188" lat="40.6850485" lon="-73.9542463">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42495190" lat="40.6861713" lon="-73.9444749">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42495193" lat="40.6864970" lon="-73.9416404"/>
+  <node id="2799410691" lat="40.6887514" lon="-73.9211521"/>
+  <node id="2799410694" lat="40.6888340" lon="-73.9213191"/>
+  <node id="2969849194" lat="40.6878305" lon="-73.9300345"/>
+  <node id="2969849195" lat="40.6868315" lon="-73.9388070"/>
+  <node id="42466977" lat="40.6835203" lon="-73.9351731"/>
+  <node id="42473289" lat="40.6838400" lon="-73.9322312"/>
+  <node id="42476382" lat="40.6855289" lon="-73.9177206">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42479161" lat="40.6851999" lon="-73.9204706">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42481593" lat="40.6818168" lon="-73.9498713">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42482385" lat="40.6821949" lon="-73.9465863">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42485035" lat="40.6844988" lon="-73.9263905">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42493912" lat="40.6849033" lon="-73.9231066">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42499209" lat="40.6828415" lon="-73.9409344"/>
+  <node id="42499504" lat="40.6841778" lon="-73.9293198">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42505560" lat="40.6857666" lon="-73.9155216"/>
+  <node id="42506685" lat="40.6825065" lon="-73.9437457">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42506695" lat="40.6831673" lon="-73.9380837"/>
+  <node id="42466947" lat="40.6937516" lon="-73.9371981"/>
+  <node id="42473217" lat="40.6940894" lon="-73.9342743"/>
+  <node id="42481546" lat="40.6920630" lon="-73.9519020"/>
+  <node id="42482236" lat="40.6924400" lon="-73.9486220"/>
+  <node id="42499167" lat="40.6930918" lon="-73.9429443"/>
+  <node id="42499465" lat="40.6944340" lon="-73.9313509"/>
+  <node id="42514359" lat="40.6927650" lon="-73.9457870"/>
+  <node id="42516245" lat="40.6934157" lon="-73.9401209"/>
+  <node id="42466974" lat="40.6849626" lon="-73.9354475"/>
+  <node id="42473278" lat="40.6852984" lon="-73.9325181"/>
+  <node id="42476402" lat="40.6869650" lon="-73.9179960"/>
+  <node id="42479155" lat="40.6866500" lon="-73.9207400"/>
+  <node id="42481589" lat="40.6832690" lon="-73.9501550">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42482378" lat="40.6836460" lon="-73.9468730">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42485030" lat="40.6859717" lon="-73.9266698"/>
+  <node id="42493909" lat="40.6863450" lon="-73.9233960"/>
+  <node id="42499201" lat="40.6842998" lon="-73.9412060"/>
+  <node id="42499500" lat="40.6856359" lon="-73.9295926"/>
+  <node id="42514385" lat="40.6839730" lon="-73.9440360">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42516172" lat="40.6824210" lon="-73.9575340"/>
+  <node id="42516276" lat="40.6846267" lon="-73.9383662"/>
+  <node id="42520269" lat="40.6828480" lon="-73.9538090">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42522063" lat="40.6825990" lon="-73.9559660">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="2564921615" lat="40.6870155" lon="-73.9176761"/>
+  <node id="42466932" lat="40.6959504" lon="-73.9376361"/>
+  <node id="42473207" lat="40.6962868" lon="-73.9347134"/>
+  <node id="42481537" lat="40.6942630" lon="-73.9523410"/>
+  <node id="42482231" lat="40.6946370" lon="-73.9490600"/>
+  <node id="42499161" lat="40.6952900" lon="-73.9433789"/>
+  <node id="42505484" lat="40.6963449" lon="-73.9341373"/>
+  <node id="42514354" lat="40.6949620" lon="-73.9462230"/>
+  <node id="42516238" lat="40.6956154" lon="-73.9405600"/>
+  <node id="42466965" lat="40.6893539" lon="-73.9363221"/>
+  <node id="42473252" lat="40.6896936" lon="-73.9333961"/>
+  <node id="42481569" lat="40.6876670" lon="-73.9510280"/>
+  <node id="42482263" lat="40.6880440" lon="-73.9477480"/>
+  <node id="42485012" lat="40.6903680" lon="-73.9275559"/>
+  <node id="42499187" lat="40.6886971" lon="-73.9420754"/>
+  <node id="42499487" lat="40.6900310" lon="-73.9304700"/>
+  <node id="42501884" lat="40.6866830" lon="-73.9595680">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42505519" lat="40.6908310" lon="-73.9243920"/>
+  <node id="42514373" lat="40.6883700" lon="-73.9449110"/>
+  <node id="42516263" lat="40.6890229" lon="-73.9392442"/>
+  <node id="42520258" lat="40.6872450" lon="-73.9546840">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42524143" lat="40.6869960" lon="-73.9568410">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="7153154805" lat="40.6879114" lon="-73.9488995"/>
+  <node id="42466957" lat="40.6922878" lon="-73.9369065"/>
+  <node id="42473229" lat="40.6926237" lon="-73.9339815"/>
+  <node id="42481555" lat="40.6905970" lon="-73.9516120"/>
+  <node id="42482246" lat="40.6909740" lon="-73.9483310"/>
+  <node id="42499174" lat="40.6916249" lon="-73.9426542">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42499473" lat="40.6929610" lon="-73.9310530"/>
+  <node id="42514364" lat="40.6913000" lon="-73.9454960"/>
+  <node id="42516255" lat="40.6919497" lon="-73.9398284"/>
+  <node id="42520244" lat="40.6901750" lon="-73.9552660"/>
+  <node id="42531892" lat="40.6902890" lon="-73.9543260"/>
+  <node id="42531902" lat="40.6932150" lon="-73.9288680"/>
+  <node id="42466966" lat="40.6886245" lon="-73.9361769"/>
+  <node id="42473255" lat="40.6889614" lon="-73.9332499"/>
+  <node id="42481572" lat="40.6869322" lon="-73.9508828"/>
+  <node id="42482266" lat="40.6873098" lon="-73.9476018"/>
+  <node id="42498825" lat="40.6859494" lon="-73.9594227"/>
+  <node id="42498829" lat="40.6862629" lon="-73.9566990"/>
+  <node id="42498838" lat="40.6865116" lon="-73.9545379">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42498863" lat="40.6876221" lon="-73.9447515"/>
+  <node id="42498872" lat="40.6879625" lon="-73.9419301"/>
+  <node id="42498881" lat="40.6882884" lon="-73.9390977"/>
+  <node id="42466962" lat="40.6900901" lon="-73.9364688"/>
+  <node id="42473245" lat="40.6904268" lon="-73.9335426"/>
+  <node id="42481566" lat="40.6883983" lon="-73.9511747"/>
+  <node id="42482258" lat="40.6887758" lon="-73.9478930"/>
+  <node id="42485010" lat="40.6910986" lon="-73.9277032"/>
+  <node id="42499184" lat="40.6894285" lon="-73.9422200"/>
+  <node id="42499483" lat="40.6907634" lon="-73.9306163"/>
+  <node id="42501249" lat="40.6877352" lon="-73.9569749">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42501253" lat="40.6879778" lon="-73.9548292">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42501267" lat="40.6891022" lon="-73.9450560"/>
+  <node id="42501272" lat="40.6897540" lon="-73.9393902"/>
+  <node id="42501277" lat="40.6913676" lon="-73.9253651"/>
+  <node id="42466972" lat="40.6856931" lon="-73.9355930"/>
+  <node id="42473272" lat="40.6860300" lon="-73.9326643"/>
+  <node id="42479153" lat="40.6873846" lon="-73.9208875"/>
+  <node id="42481586" lat="40.6840016" lon="-73.9502991">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42482372" lat="40.6843792" lon="-73.9470168">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42485027" lat="40.6867026" lon="-73.9268171"/>
+  <node id="42489052" lat="40.6847050" lon="-73.9441838">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42489056" lat="40.6850309" lon="-73.9413506"/>
+  <node id="42489060" lat="40.6853573" lon="-73.9385127"/>
+  <node id="42489066" lat="40.6863652" lon="-73.9297498"/>
+  <node id="42489071" lat="40.6870792" lon="-73.9235426"/>
+  <node id="42489078" lat="40.6876266" lon="-73.9187831"/>
+  <node id="42466959" lat="40.6915557" lon="-73.9367607"/>
+  <node id="42473232" lat="40.6918927" lon="-73.9338355"/>
+  <node id="42481558" lat="40.6898640" lon="-73.9514640"/>
+  <node id="42482253" lat="40.6902420" lon="-73.9481850"/>
+  <node id="42485004" lat="40.6925615" lon="-73.9279980"/>
+  <node id="42499177" lat="40.6908927" lon="-73.9425095">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42499477" lat="40.6922280" lon="-73.9309070"/>
+  <node id="42514366" lat="40.6905670" lon="-73.9453490"/>
+  <node id="42516258" lat="40.6912188" lon="-73.9396825"/>
+  <node id="42466975" lat="40.6842279" lon="-73.9353012"/>
+  <node id="42473286" lat="40.6845648" lon="-73.9323716"/>
+  <node id="42476388" lat="40.6862345" lon="-73.9178503">
+    <tag k="highway" v="stop"/>
+    <tag k="stop" v="all"/>
+  </node>
+  <node id="42479159" lat="40.6859189" lon="-73.9205954"/>
+  <node id="42481590" lat="40.6825366" lon="-73.9500089">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42482381" lat="40.6829140" lon="-73.9467270">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42485033" lat="40.6852374" lon="-73.9265218">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42493911" lat="40.6856134" lon="-73.9232523"/>
+  <node id="42499207" lat="40.6835656" lon="-73.9410609"/>
+  <node id="42499502" lat="40.6849005" lon="-73.9294515">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42514388" lat="40.6832401" lon="-73.9438910">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42516279" lat="40.6838922" lon="-73.9382204"/>
+  <node id="42520273" lat="40.6821165" lon="-73.9536623">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42471580" lat="40.6944290" lon="-73.9242490"/>
+  <node id="42477542" lat="40.6931440" lon="-73.9219940"/>
+  <node id="42477886" lat="40.6971885" lon="-73.9288431"/>
+  <node id="42479002" lat="40.6902640" lon="-73.9154500"/>
+  <node id="42479511" lat="40.7008488" lon="-73.9331463"/>
+  <node id="42484343" lat="40.7000590" lon="-73.9327810"/>
+  <node id="42486689" lat="40.6911100" lon="-73.9169640"/>
+  <node id="42488746" lat="40.6859880" lon="-73.9079340">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42489088" lat="40.6906920" lon="-73.9161990"/>
+  <node id="42490683" lat="40.6889800" lon="-73.9131940"/>
+  <node id="42492375" lat="40.6982500" lon="-73.9299640"/>
+  <node id="42498806" lat="40.6918080" lon="-73.9186200"/>
+  <node id="42499290" lat="40.6914600" lon="-73.9177910"/>
+  <node id="42499797" lat="40.7026740" lon="-73.9339510"/>
+  <node id="42499806" lat="40.6998140" lon="-73.9323500"/>
+  <node id="42499809" lat="40.6996280" lon="-73.9320310"/>
+  <node id="42499813" lat="40.6993648" lon="-73.9315636"/>
+  <node id="42499816" lat="40.6992020" lon="-73.9312800"/>
+  <node id="42499820" lat="40.6989110" lon="-73.9307700"/>
+  <node id="42499826" lat="40.6987720" lon="-73.9305210"/>
+  <node id="42499827" lat="40.6977146" lon="-73.9293935"/>
+  <node id="42499828" lat="40.6976438" lon="-73.9293194"/>
+  <node id="42499829" lat="40.6966705" lon="-73.9282289"/>
+  <node id="42499830" lat="40.6961420" lon="-73.9272500">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42499831" lat="40.6957120" lon="-73.9264990"/>
+  <node id="42499833" lat="40.6952850" lon="-73.9257500"/>
+  <node id="42499834" lat="40.6948550" lon="-73.9249950"/>
+  <node id="42499836" lat="40.6940010" lon="-73.9234980"/>
+  <node id="42499838" lat="40.6935730" lon="-73.9227480"/>
+  <node id="42499840" lat="40.6928233" lon="-73.9212145"/>
+  <node id="42499841" lat="40.6924850" lon="-73.9203010"/>
+  <node id="42499843" lat="40.6921490" lon="-73.9194590"/>
+  <node id="42499845" lat="40.6898360" lon="-73.9146990"/>
+  <node id="42499846" lat="40.6894090" lon="-73.9139460"/>
+  <node id="42499847" lat="40.6885530" lon="-73.9124430">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42499848" lat="40.6881250" lon="-73.9116920"/>
+  <node id="42499849" lat="40.6876990" lon="-73.9109400">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42499850" lat="40.6872710" lon="-73.9101890"/>
+  <node id="42499852" lat="40.6868450" lon="-73.9094390">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42499854" lat="40.6864170" lon="-73.9086880">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42471852" lat="40.6972040" lon="-73.9529250"/>
+  <node id="42477901" lat="40.6927940" lon="-73.9520500"/>
+  <node id="42481529" lat="40.6994050" lon="-73.9533700">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42481534" lat="40.6949976" lon="-73.9524877">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42481537" lat="40.6942630" lon="-73.9523410"/>
+  <node id="42481546" lat="40.6920630" lon="-73.9519020"/>
+  <node id="42481550" lat="40.6913300" lon="-73.9517570"/>
+  <node id="42481555" lat="40.6905970" lon="-73.9516120"/>
+  <node id="42481558" lat="40.6898640" lon="-73.9514640"/>
+  <node id="42481562" lat="40.6891330" lon="-73.9513190"/>
+  <node id="42481566" lat="40.6883983" lon="-73.9511747"/>
+  <node id="42481569" lat="40.6876670" lon="-73.9510280"/>
+  <node id="42481572" lat="40.6869322" lon="-73.9508828"/>
+  <node id="42481580" lat="40.6862000" lon="-73.9507370"/>
+  <node id="42481581" lat="40.6854686" lon="-73.9505903"/>
+  <node id="42481583" lat="40.6847350" lon="-73.9504460">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42481586" lat="40.6840016" lon="-73.9502991">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="4562139153" lat="40.6934672" lon="-73.9521886"/>
+  <node id="42481580" lat="40.6862000" lon="-73.9507370"/>
+  <node id="42520262" lat="40.6857800" lon="-73.9543930">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42481550" lat="40.6913300" lon="-73.9517570"/>
+  <node id="42490736" lat="40.6911210" lon="-73.9535660"/>
+  <node id="42498645" lat="40.6910146" lon="-73.9544640"/>
+  <node id="42520242" lat="40.6909080" lon="-73.9554100">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42481558" lat="40.6898640" lon="-73.9514640"/>
+  <node id="42492122" lat="40.6893388" lon="-73.9560652"/>
+  <node id="42520247" lat="40.6894516" lon="-73.9551271">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42523755" lat="40.6892122" lon="-73.9572005"/>
+  <node id="42523761" lat="40.6892355" lon="-73.9569698"/>
+  <node id="42475320" lat="40.7002920" lon="-73.9521760"/>
+  <node id="42475322" lat="40.7009220" lon="-73.9512880">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42475325" lat="40.7015790" lon="-73.9502740">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42475328" lat="40.7021590" lon="-73.9493790"/>
+  <node id="42475331" lat="40.7033510" lon="-73.9475390"/>
+  <node id="42475336" lat="40.7036668" lon="-73.9470493"/>
+  <node id="42477570" lat="40.6992840" lon="-73.9598240"/>
+  <node id="42477573" lat="40.6996680" lon="-73.9592380">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42477575" lat="40.7008220" lon="-73.9574570">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42477578" lat="40.7019460" lon="-73.9557240">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42477581" lat="40.7031810" lon="-73.9538120">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42477584" lat="40.7044180" lon="-73.9519000">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42477588" lat="40.7054336" lon="-73.9502136">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42482034" lat="40.7007920" lon="-73.9605000">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42482037" lat="40.7019530" lon="-73.9586890">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42482039" lat="40.7030750" lon="-73.9569850">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42482042" lat="40.7043120" lon="-73.9550740">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42482044" lat="40.7055440" lon="-73.9531630"/>
+  <node id="42482048" lat="40.7063473" lon="-73.9519201">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42482202" lat="40.7014945" lon="-73.9519151">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42492065" lat="40.7001982" lon="-73.9538880">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42520556" lat="40.7025700" lon="-73.9502510">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42481562" lat="40.6891330" lon="-73.9513190"/>
+  <node id="42482256" lat="40.6895110" lon="-73.9480390"/>
+  <node id="42501882" lat="40.6881480" lon="-73.9598590">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42520251" lat="40.6887110" lon="-73.9549750">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42524140" lat="40.6884662" lon="-73.9571193"/>
+  <node id="7153154808" lat="40.6893799" lon="-73.9491771"/>
+  <node id="42469391" lat="40.6994850" lon="-73.9610320">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42482183" lat="40.7037470" lon="-73.9544420">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42505415" lat="40.7059187" lon="-73.9510745">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42506427" lat="40.7002350" lon="-73.9598700"/>
+  <node id="42520236" lat="40.7013980" lon="-73.9580710">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42523048" lat="40.7025100" lon="-73.9563530">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42531741" lat="40.7049830" lon="-73.9525320"/>
+  <node id="42469376" lat="40.6964180" lon="-73.9597690">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42471829" lat="40.6962070" lon="-73.9615860">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42471833" lat="40.6963200" lon="-73.9606210"/>
+  <node id="42471836" lat="40.6965710" lon="-73.9584350"/>
+  <node id="42471838" lat="40.6966760" lon="-73.9575260"/>
+  <node id="42471841" lat="40.6967840" lon="-73.9565810">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42471844" lat="40.6968940" lon="-73.9556370"/>
+  <node id="42471847" lat="40.6969950" lon="-73.9547450"/>
+  <node id="42471849" lat="40.6970990" lon="-73.9538530"/>
+  <node id="42471852" lat="40.6972040" lon="-73.9529250"/>
+  <node id="42471855" lat="40.6975830" lon="-73.9496470">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42471859" lat="40.6979030" lon="-73.9467970"/>
+  <node id="42471867" lat="40.6981061" lon="-73.9449729"/>
+  <node id="42471870" lat="40.6982209" lon="-73.9439584">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42471874" lat="40.6985417" lon="-73.9411440"/>
+  <node id="42481550" lat="40.6913300" lon="-73.9517570"/>
+  <node id="42482240" lat="40.6917070" lon="-73.9484760"/>
+  <node id="42499172" lat="40.6923589" lon="-73.9427993">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42514361" lat="40.6920330" lon="-73.9456420"/>
+  <node id="42516250" lat="40.6926826" lon="-73.9399746"/>
+  <node id="42469374" lat="40.6942150" lon="-73.9593110">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42481534" lat="40.6949976" lon="-73.9524877">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42482227" lat="40.6953757" lon="-73.9492072">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42490731" lat="40.6947910" lon="-73.9543070">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42492110" lat="40.6944710" lon="-73.9570870">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42494539" lat="40.6941170" lon="-73.9601580">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42498637" lat="40.6946880" lon="-73.9551970">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42501868" lat="40.6940110" lon="-73.9610930"/>
+  <node id="42517044" lat="40.6943660" lon="-73.9579970">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42517047" lat="40.6945790" lon="-73.9561430">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42517050" lat="40.6948930" lon="-73.9534140"/>
+  <node id="42481529" lat="40.6994050" lon="-73.9533700">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42482215" lat="40.6997910" lon="-73.9500910">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42504087" lat="40.7000060" lon="-73.9481330"/>
+  <node id="42504093" lat="40.7001135" lon="-73.9472209">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42475320" lat="40.7002920" lon="-73.9521760"/>
+  <node id="42482207" lat="40.7004450" lon="-73.9507560">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="1275778429" lat="40.7000620" lon="-73.9541400"/>
+  <node id="5368768968" lat="40.7000978" lon="-73.9538223">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42475322" lat="40.7009220" lon="-73.9512880">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42477581" lat="40.7031810" lon="-73.9538120">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42482042" lat="40.7043120" lon="-73.9550740">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42482165" lat="40.7065680" lon="-73.9575970">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42482168" lat="40.7060030" lon="-73.9569670">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42482174" lat="40.7054390" lon="-73.9563370">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42482178" lat="40.7048760" lon="-73.9557040">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42482183" lat="40.7037470" lon="-73.9544420">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42482192" lat="40.7026170" lon="-73.9531810">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42482198" lat="40.7020510" lon="-73.9525510">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42482202" lat="40.7014945" lon="-73.9519151">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42482207" lat="40.7004450" lon="-73.9507560">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="598033010" lat="40.7067983" lon="-73.9578652"/>
+  <node id="42482198" lat="40.7020510" lon="-73.9525510">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42492062" lat="40.6998630" lon="-73.9558960"/>
+  <node id="42499132" lat="40.7044749" lon="-73.9488044"/>
+  <node id="42519630" lat="40.7008160" lon="-73.9544600">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42519635" lat="40.7032870" lon="-73.9506410">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42519640" lat="40.7035560" lon="-73.9502250">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42464982" lat="40.6802151" lon="-73.9463448">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42471855" lat="40.6975830" lon="-73.9496470">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42477903" lat="40.6931720" lon="-73.9487680"/>
+  <node id="42482212" lat="40.7003470" lon="-73.9506570"/>
+  <node id="42482215" lat="40.6997910" lon="-73.9500910">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42482220" lat="40.6983100" lon="-73.9497880">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42482222" lat="40.6968470" lon="-73.9495000">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42482223" lat="40.6961210" lon="-73.9493560"/>
+  <node id="42482227" lat="40.6953757" lon="-73.9492072">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42482231" lat="40.6946370" lon="-73.9490600"/>
+  <node id="42482234" lat="40.6939050" lon="-73.9489140"/>
+  <node id="42482236" lat="40.6924400" lon="-73.9486220"/>
+  <node id="42482240" lat="40.6917070" lon="-73.9484760"/>
+  <node id="42482246" lat="40.6909740" lon="-73.9483310"/>
+  <node id="42482253" lat="40.6902420" lon="-73.9481850"/>
+  <node id="42482256" lat="40.6895110" lon="-73.9480390"/>
+  <node id="42482258" lat="40.6887758" lon="-73.9478930"/>
+  <node id="42482263" lat="40.6880440" lon="-73.9477480"/>
+  <node id="42482266" lat="40.6873098" lon="-73.9476018"/>
+  <node id="42482354" lat="40.6865780" lon="-73.9474560">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42482358" lat="40.6858455" lon="-73.9473099">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42482366" lat="40.6851130" lon="-73.9471650">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42482372" lat="40.6843792" lon="-73.9470168">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42482378" lat="40.6836460" lon="-73.9468730">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42482381" lat="40.6829140" lon="-73.9467270">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42482385" lat="40.6821949" lon="-73.9465863">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42482388" lat="40.6814467" lon="-73.9464365">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42482392" lat="40.6807121" lon="-73.9462846"/>
+  <node id="42464995" lat="40.6798893" lon="-73.9403341">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42471870" lat="40.6982209" lon="-73.9439584">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42477907" lat="40.6938242" lon="-73.9430891"/>
+  <node id="42486654" lat="40.6857638" lon="-73.9414955"/>
+  <node id="42489056" lat="40.6850309" lon="-73.9413506"/>
+  <node id="42492342" lat="40.6945590" lon="-73.9432344"/>
+  <node id="42495193" lat="40.6864970" lon="-73.9416404"/>
+  <node id="42498872" lat="40.6879625" lon="-73.9419301"/>
+  <node id="42499149" lat="40.7004243" lon="-73.9443941"/>
+  <node id="42499151" lat="40.6996981" lon="-73.9442505"/>
+  <node id="42499154" lat="40.6989718" lon="-73.9441069"/>
+  <node id="42499160" lat="40.6960311" lon="-73.9435254"/>
+  <node id="42499161" lat="40.6952900" lon="-73.9433789"/>
+  <node id="42499167" lat="40.6930918" lon="-73.9429443"/>
+  <node id="42499172" lat="40.6923589" lon="-73.9427993">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42499174" lat="40.6916249" lon="-73.9426542">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42499177" lat="40.6908927" lon="-73.9425095">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42499180" lat="40.6901605" lon="-73.9423647">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42499184" lat="40.6894285" lon="-73.9422200"/>
+  <node id="42499187" lat="40.6886971" lon="-73.9420754"/>
+  <node id="42499192" lat="40.6872280" lon="-73.9417849"/>
+  <node id="42499201" lat="40.6842998" lon="-73.9412060"/>
+  <node id="42499207" lat="40.6835656" lon="-73.9410609"/>
+  <node id="42499209" lat="40.6828415" lon="-73.9409344"/>
+  <node id="42499211" lat="40.6820988" lon="-73.9407709">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42499213" lat="40.6813645" lon="-73.9406257">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42499215" lat="40.6806156" lon="-73.9404777">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42477905" lat="40.6934970" lon="-73.9459320"/>
+  <node id="42486650" lat="40.6854390" lon="-73.9443280">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42489052" lat="40.6847050" lon="-73.9441838">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42492340" lat="40.6942300" lon="-73.9460780"/>
+  <node id="42495190" lat="40.6861713" lon="-73.9444749">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42498863" lat="40.6876221" lon="-73.9447515"/>
+  <node id="42501267" lat="40.6891022" lon="-73.9450560"/>
+  <node id="42502366" lat="40.6810394" lon="-73.9434455">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42506685" lat="40.6825065" lon="-73.9437457">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42514351" lat="40.6957025" lon="-73.9463749"/>
+  <node id="42514354" lat="40.6949620" lon="-73.9462230"/>
+  <node id="42514359" lat="40.6927650" lon="-73.9457870"/>
+  <node id="42514361" lat="40.6920330" lon="-73.9456420"/>
+  <node id="42514364" lat="40.6913000" lon="-73.9454960"/>
+  <node id="42514366" lat="40.6905670" lon="-73.9453490"/>
+  <node id="42514369" lat="40.6898400" lon="-73.9451980"/>
+  <node id="42514373" lat="40.6883700" lon="-73.9449110"/>
+  <node id="42514378" lat="40.6869040" lon="-73.9446220"/>
+  <node id="42514385" lat="40.6839730" lon="-73.9440360">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42514388" lat="40.6832401" lon="-73.9438910">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42514395" lat="40.6817731" lon="-73.9436006">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42466921" lat="40.6986415" lon="-73.9381722"/>
+  <node id="42466923" lat="40.6980910" lon="-73.9380626"/>
+  <node id="42466926" lat="40.6974259" lon="-73.9379301"/>
+  <node id="42466929" lat="40.6966910" lon="-73.9377837">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42466932" lat="40.6959504" lon="-73.9376361"/>
+  <node id="42466939" lat="40.6952183" lon="-73.9374903"/>
+  <node id="42466943" lat="40.6944848" lon="-73.9373442"/>
+  <node id="42466947" lat="40.6937516" lon="-73.9371981"/>
+  <node id="42466950" lat="40.6930206" lon="-73.9370525"/>
+  <node id="42466957" lat="40.6922878" lon="-73.9369065"/>
+  <node id="42466959" lat="40.6915557" lon="-73.9367607"/>
+  <node id="42466960" lat="40.6908217" lon="-73.9366145"/>
+  <node id="42466962" lat="40.6900901" lon="-73.9364688"/>
+  <node id="42466965" lat="40.6893539" lon="-73.9363221"/>
+  <node id="42466966" lat="40.6886245" lon="-73.9361769"/>
+  <node id="42466967" lat="40.6878916" lon="-73.9360309"/>
+  <node id="42466970" lat="40.6871583" lon="-73.9358848"/>
+  <node id="42466971" lat="40.6864276" lon="-73.9357393"/>
+  <node id="42466972" lat="40.6856931" lon="-73.9355930"/>
+  <node id="42466974" lat="40.6849626" lon="-73.9354475"/>
+  <node id="42466975" lat="40.6842279" lon="-73.9353012"/>
+  <node id="42466977" lat="40.6835203" lon="-73.9351731"/>
+  <node id="42466978" lat="40.6827620" lon="-73.9350092"/>
+  <node id="42466980" lat="40.6820289" lon="-73.9348632">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42466982" lat="40.6812878" lon="-73.9347156">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42466983" lat="40.6805649" lon="-73.9345716"/>
+  <node id="42466984" lat="40.6802215" lon="-73.9345032"/>
+  <node id="42471874" lat="40.6985417" lon="-73.9411440"/>
+  <node id="42477909" lat="40.6941478" lon="-73.9402670"/>
+  <node id="42486657" lat="40.6860910" lon="-73.9386592"/>
+  <node id="42489060" lat="40.6853573" lon="-73.9385127"/>
+  <node id="42492346" lat="40.6948807" lon="-73.9404133">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42498485" lat="40.6809475" lon="-73.9376327">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42498881" lat="40.6882884" lon="-73.9390977"/>
+  <node id="42501272" lat="40.6897540" lon="-73.9393902"/>
+  <node id="42502371" lat="40.6816925" lon="-73.9377814">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42506695" lat="40.6831673" lon="-73.9380837"/>
+  <node id="42515255" lat="40.6904847" lon="-73.9395360"/>
+  <node id="42516233" lat="40.6963537" lon="-73.9407073"/>
+  <node id="42516238" lat="40.6956154" lon="-73.9405600"/>
+  <node id="42516245" lat="40.6934157" lon="-73.9401209"/>
+  <node id="42516250" lat="40.6926826" lon="-73.9399746"/>
+  <node id="42516255" lat="40.6919497" lon="-73.9398284"/>
+  <node id="42516258" lat="40.6912188" lon="-73.9396825"/>
+  <node id="42516263" lat="40.6890229" lon="-73.9392442"/>
+  <node id="42516267" lat="40.6875572" lon="-73.9389524"/>
+  <node id="42516276" lat="40.6846267" lon="-73.9383662"/>
+  <node id="42516279" lat="40.6838922" lon="-73.9382204"/>
+  <node id="42516282" lat="40.6824261" lon="-73.9379278">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="2969849195" lat="40.6868315" lon="-73.9388070"/>
+  <node id="42466967" lat="40.6878916" lon="-73.9360309"/>
+  <node id="42516267" lat="40.6875572" lon="-73.9389524"/>
+  <node id="42499192" lat="40.6872280" lon="-73.9417849"/>
+  <node id="42514378" lat="40.6869040" lon="-73.9446220"/>
+  <node id="42482354" lat="40.6865780" lon="-73.9474560">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42514378" lat="40.6869040" lon="-73.9446220"/>
+  <node id="42481580" lat="40.6862000" lon="-73.9507370"/>
+  <node id="42482354" lat="40.6865780" lon="-73.9474560">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="7153154805" lat="40.6879114" lon="-73.9488995"/>
+  <node id="42499192" lat="40.6872280" lon="-73.9417849"/>
+  <node id="42516267" lat="40.6875572" lon="-73.9389524"/>
+  <node id="42460660" lat="40.6801109" lon="-73.9254885">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42465030" lat="40.6790715" lon="-73.9252790">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42470090" lat="40.6793828" lon="-73.9253418"/>
+  <node id="42485007" lat="40.6918297" lon="-73.9278505"/>
+  <node id="42485010" lat="40.6910986" lon="-73.9277032"/>
+  <node id="42485012" lat="40.6903680" lon="-73.9275559"/>
+  <node id="42485014" lat="40.6896336" lon="-73.9274079"/>
+  <node id="42485016" lat="40.6889003" lon="-73.9272601"/>
+  <node id="42485017" lat="40.6881663" lon="-73.9271121"/>
+  <node id="42485022" lat="40.6874382" lon="-73.9269653"/>
+  <node id="42485027" lat="40.6867026" lon="-73.9268171"/>
+  <node id="42485030" lat="40.6859717" lon="-73.9266698"/>
+  <node id="42485033" lat="40.6852374" lon="-73.9265218">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42485035" lat="40.6844988" lon="-73.9263905">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42485041" lat="40.6837729" lon="-73.9262266">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42485047" lat="40.6830416" lon="-73.9260792">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42485052" lat="40.6823124" lon="-73.9259322">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42485057" lat="40.6815714" lon="-73.9257829">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42485061" lat="40.6808457" lon="-73.9256366">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42460657" lat="40.6797490" lon="-73.9286510"/>
+  <node id="42465019" lat="40.6792770" lon="-73.9290580">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42486667" lat="40.6871000" lon="-73.9298880"/>
+  <node id="42489066" lat="40.6863652" lon="-73.9297498"/>
+  <node id="42498900" lat="40.6892729" lon="-73.9303165"/>
+  <node id="42499470" lat="40.6936920" lon="-73.9312040"/>
+  <node id="42499473" lat="40.6929610" lon="-73.9310530"/>
+  <node id="42499477" lat="40.6922280" lon="-73.9309070"/>
+  <node id="42499480" lat="40.6914950" lon="-73.9307600"/>
+  <node id="42499483" lat="40.6907634" lon="-73.9306163"/>
+  <node id="42499487" lat="40.6900310" lon="-73.9304700"/>
+  <node id="42499494" lat="40.6885663" lon="-73.9301787"/>
+  <node id="42499500" lat="40.6856359" lon="-73.9295926"/>
+  <node id="42499502" lat="40.6849005" lon="-73.9294515">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42499504" lat="40.6841778" lon="-73.9293198">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42499507" lat="40.6834352" lon="-73.9291606">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42499509" lat="40.6827038" lon="-73.9290092">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42499519" lat="40.6819701" lon="-73.9288668">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42499524" lat="40.6812370" lon="-73.9287270">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42499527" lat="40.6805070" lon="-73.9285680">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="2969849194" lat="40.6878305" lon="-73.9300345"/>
+  <node id="6545280306" lat="40.6795218" lon="-73.9288469"/>
+  <node id="42466967" lat="40.6878916" lon="-73.9360309"/>
+  <node id="42473259" lat="40.6882318" lon="-73.9331041"/>
+  <node id="42460654" lat="40.6793663" lon="-73.9313332">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42473255" lat="40.6889614" lon="-73.9332499"/>
+  <node id="42473259" lat="40.6882318" lon="-73.9331041"/>
+  <node id="42473262" lat="40.6874947" lon="-73.9329569"/>
+  <node id="42473266" lat="40.6867633" lon="-73.9328107"/>
+  <node id="42473272" lat="40.6860300" lon="-73.9326643"/>
+  <node id="42473278" lat="40.6852984" lon="-73.9325181"/>
+  <node id="42473286" lat="40.6845648" lon="-73.9323716"/>
+  <node id="42473289" lat="40.6838400" lon="-73.9322312"/>
+  <node id="42473293" lat="40.6830993" lon="-73.9320788"/>
+  <node id="42473295" lat="40.6823668" lon="-73.9319325"/>
+  <node id="42473297" lat="40.6816296" lon="-73.9317853"/>
+  <node id="42473300" lat="40.6809028" lon="-73.9316401">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42473307" lat="40.6801698" lon="-73.9314937"/>
+  <node id="7153154808" lat="40.6893799" lon="-73.9491771"/>
+  <node id="42467503" lat="40.7005450" lon="-73.9444030"/>
+  <node id="42467507" lat="40.7014417" lon="-73.9430797">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42467803" lat="40.7016370" lon="-73.9422670"/>
+  <node id="2530160374" lat="40.7007001" lon="-73.9421347"/>
+  <node id="2568052329" lat="40.7008641" lon="-73.9421573"/>
+  <node id="42466921" lat="40.6986415" lon="-73.9381722"/>
+  <node id="42471953" lat="40.6998330" lon="-73.9369630"/>
+  <node id="42473650" lat="40.7015552" lon="-73.9383274">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42473653" lat="40.7005953" lon="-73.9366538"/>
+  <node id="42466960" lat="40.6908217" lon="-73.9366145"/>
+  <node id="42473239" lat="40.6911588" lon="-73.9336888"/>
+  <node id="42499180" lat="40.6901605" lon="-73.9423647">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42514369" lat="40.6898400" lon="-73.9451980"/>
+  <node id="42515255" lat="40.6904847" lon="-73.9395360"/>
+  <node id="42482215" lat="40.6997910" lon="-73.9500910">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42499143" lat="40.7022200" lon="-73.9462760"/>
+  <node id="42526740" lat="40.7010290" lon="-73.9481160">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42482220" lat="40.6983100" lon="-73.9497880">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42499154" lat="40.6989718" lon="-73.9441069"/>
+  <node id="42514344" lat="40.6986470" lon="-73.9469613"/>
+  <node id="42526320" lat="40.6987902" lon="-73.9456426"/>
+  <node id="42466926" lat="40.6974259" lon="-73.9379301"/>
+  <node id="42505475" lat="40.6976305" lon="-73.9363959"/>
+  <node id="42504106" lat="40.7012810" lon="-73.9395010"/>
+  <node id="42515613" lat="40.7011020" lon="-73.9392440"/>
+  <node id="42492003" lat="40.7015940" lon="-73.9487480">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42526740" lat="40.7010290" lon="-73.9481160">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42499146" lat="40.7010910" lon="-73.9450140"/>
+  <node id="42505456" lat="40.7018620" lon="-73.9438250"/>
+  <node id="42491998" lat="40.7004901" lon="-73.9504593"/>
+  <node id="42492001" lat="40.7005930" lon="-73.9502890">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42492003" lat="40.7015940" lon="-73.9487480">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42475325" lat="40.7015790" lon="-73.9502740">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42492001" lat="40.7005930" lon="-73.9502890">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42520556" lat="40.7025700" lon="-73.9502510">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42499144" lat="40.7016550" lon="-73.9456450"/>
+  <node id="42505446" lat="40.7023160" lon="-73.9446361"/>
+  <node id="42516653" lat="40.7004640" lon="-73.9474860">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42499151" lat="40.6996981" lon="-73.9442505"/>
+  <node id="42514342" lat="40.6993740" lon="-73.9471050"/>
+  <node id="42467004" lat="40.6984050" lon="-73.9377730"/>
+  <node id="42494830" lat="40.6981860" lon="-73.9373910"/>
+  <node id="42504529" lat="40.6978524" lon="-73.9367835"/>
+  <node id="42473650" lat="40.7015552" lon="-73.9383274">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42479528" lat="40.7041988" lon="-73.9300554"/>
+  <node id="42486705" lat="40.7028490" lon="-73.9335230"/>
+  <node id="42490298" lat="40.7037730" lon="-73.9311550"/>
+  <node id="42499081" lat="40.7010770" lon="-73.9404200"/>
+  <node id="42499797" lat="40.7026740" lon="-73.9339510"/>
+  <node id="42500468" lat="40.7023150" lon="-73.9353360"/>
+  <node id="42504102" lat="40.7007250" lon="-73.9419310"/>
+  <node id="42504106" lat="40.7012810" lon="-73.9395010"/>
+  <node id="42504109" lat="40.7019100" lon="-73.9369820">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42504116" lat="40.7031710" lon="-73.9326980"/>
+  <node id="42504122" lat="40.7034579" lon="-73.9319307"/>
+  <node id="42504129" lat="40.7041310" lon="-73.9302370"/>
+  <node id="42504145" lat="40.7047170" lon="-73.9287380"/>
+  <node id="42504156" lat="40.7049640" lon="-73.9281090"/>
+  <node id="42504158" lat="40.7055581" lon="-73.9266202"/>
+  <node id="42499149" lat="40.7004243" lon="-73.9443941"/>
+  <node id="2530160374" lat="40.7007001" lon="-73.9421347"/>
+  <node id="42499143" lat="40.7022200" lon="-73.9462760"/>
+  <node id="42499144" lat="40.7016550" lon="-73.9456450"/>
+  <node id="42499146" lat="40.7010910" lon="-73.9450140"/>
+  <node id="42466950" lat="40.6930206" lon="-73.9370525"/>
+  <node id="42473222" lat="40.6933557" lon="-73.9341278"/>
+  <node id="42499470" lat="40.6936920" lon="-73.9312040"/>
+  <node id="42516250" lat="40.6926826" lon="-73.9399746"/>
+  <node id="42471953" lat="40.6998330" lon="-73.9369630"/>
+  <node id="42508233" lat="40.7002490" lon="-73.9377280"/>
+  <node id="42467507" lat="40.7014417" lon="-73.9430797">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42504102" lat="40.7007250" lon="-73.9419310"/>
+  <node id="2568052329" lat="40.7008641" lon="-73.9421573"/>
+  <node id="42479500" lat="40.7000384" lon="-73.9360843"/>
+  <node id="42504109" lat="40.7019100" lon="-73.9369820">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42504531" lat="40.6990828" lon="-73.9354516"/>
+  <node id="42509036" lat="40.7033720" lon="-73.9376480"/>
+  <node id="42513678" lat="40.7039939" lon="-73.9385202"/>
+  <node id="42513684" lat="40.7027103" lon="-73.9373154"/>
+  <node id="42513686" lat="40.7013030" lon="-73.9367290"/>
+  <node id="42513688" lat="40.7006415" lon="-73.9364499"/>
+  <node id="3539722830" lat="40.7041715" lon="-73.9387265"/>
+  <node id="42466929" lat="40.6966910" lon="-73.9377837">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42498587" lat="40.6972470" lon="-73.9328350"/>
+  <node id="42499160" lat="40.6960311" lon="-73.9435254"/>
+  <node id="42505482" lat="40.6969908" lon="-73.9352898"/>
+  <node id="42513709" lat="40.6973150" lon="-73.9322670"/>
+  <node id="42514351" lat="40.6957025" lon="-73.9463749"/>
+  <node id="42516233" lat="40.6963537" lon="-73.9407073"/>
+  <node id="42517060" lat="40.6971180" lon="-73.9340080"/>
+  <node id="42476791" lat="40.7060490" lon="-73.9412820"/>
+  <node id="42496356" lat="40.7067580" lon="-73.9413990"/>
+  <node id="42499081" lat="40.7010770" lon="-73.9404200"/>
+  <node id="42501379" lat="40.7017980" lon="-73.9405440"/>
+  <node id="42502943" lat="40.7032149" lon="-73.9407492"/>
+  <node id="42502945" lat="40.7039275" lon="-73.9408640"/>
+  <node id="42502948" lat="40.7046370" lon="-73.9410300"/>
+  <node id="42502953" lat="40.7074930" lon="-73.9415180"/>
+  <node id="42502957" lat="40.7082300" lon="-73.9416400"/>
+  <node id="42502959" lat="40.7089440" lon="-73.9417590"/>
+  <node id="42502965" lat="40.7110600" lon="-73.9421050"/>
+  <node id="42502968" lat="40.7118010" lon="-73.9422280"/>
+  <node id="42499146" lat="40.7010910" lon="-73.9450140"/>
+  <node id="42504097" lat="40.7002150" lon="-73.9463160"/>
+  <node id="42504087" lat="40.7000060" lon="-73.9481330"/>
+  <node id="42516653" lat="40.7004640" lon="-73.9474860">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42482215" lat="40.6997910" lon="-73.9500910">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42492001" lat="40.7005930" lon="-73.9502890">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42482222" lat="40.6968470" lon="-73.9495000">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42502169" lat="40.6971803" lon="-73.9466584"/>
+  <node id="42482223" lat="40.6961210" lon="-73.9493560"/>
+  <node id="42514347" lat="40.6964472" lon="-73.9465177"/>
+  <node id="42471867" lat="40.6981061" lon="-73.9449729"/>
+  <node id="42526320" lat="40.6987902" lon="-73.9456426"/>
+  <node id="42467503" lat="40.7005450" lon="-73.9444030"/>
+  <node id="42499149" lat="40.7004243" lon="-73.9443941"/>
+  <node id="42467502" lat="40.7004050" lon="-73.9446170"/>
+  <node id="42499149" lat="40.7004243" lon="-73.9443941"/>
+  <node id="42467502" lat="40.7004050" lon="-73.9446170"/>
+  <node id="42504093" lat="40.7001135" lon="-73.9472209">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42504097" lat="40.7002150" lon="-73.9463160"/>
+  <node id="42504093" lat="40.7001135" lon="-73.9472209">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42516653" lat="40.7004640" lon="-73.9474860">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42516653" lat="40.7004640" lon="-73.9474860">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42526740" lat="40.7010290" lon="-73.9481160">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42482227" lat="40.6953757" lon="-73.9492072">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42514351" lat="40.6957025" lon="-73.9463749"/>
+  <node id="42514347" lat="40.6964472" lon="-73.9465177"/>
+  <node id="42514351" lat="40.6957025" lon="-73.9463749"/>
+  <node id="42504093" lat="40.7001135" lon="-73.9472209">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42514342" lat="40.6993740" lon="-73.9471050"/>
+  <node id="42471859" lat="40.6979030" lon="-73.9467970"/>
+  <node id="42502169" lat="40.6971803" lon="-73.9466584"/>
+  <node id="42514344" lat="40.6986470" lon="-73.9469613"/>
+  <node id="42514347" lat="40.6964472" lon="-73.9465177"/>
+  <node id="42514342" lat="40.6993740" lon="-73.9471050"/>
+  <node id="42514344" lat="40.6986470" lon="-73.9469613"/>
+  <node id="42482207" lat="40.7004450" lon="-73.9507560">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42482212" lat="40.7003470" lon="-73.9506570"/>
+  <node id="42482207" lat="40.7004450" lon="-73.9507560">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42491998" lat="40.7004901" lon="-73.9504593"/>
+  <node id="42467502" lat="40.7004050" lon="-73.9446170"/>
+  <node id="42467503" lat="40.7005450" lon="-73.9444030"/>
+  <node id="42467503" lat="40.7005450" lon="-73.9444030"/>
+  <node id="42499146" lat="40.7010910" lon="-73.9450140"/>
+  <node id="42466923" lat="40.6980910" lon="-73.9380626"/>
+  <node id="42467004" lat="40.6984050" lon="-73.9377730"/>
+  <node id="42499079" lat="40.7002810" lon="-73.9411490"/>
+  <node id="42499081" lat="40.7010770" lon="-73.9404200"/>
+  <node id="42505468" lat="40.6990370" lon="-73.9389020"/>
+  <node id="42508233" lat="40.7002490" lon="-73.9377280"/>
+  <node id="42505462" lat="40.6998740" lon="-73.9404200"/>
+  <node id="42515613" lat="40.7011020" lon="-73.9392440"/>
+  <node id="42471874" lat="40.6985417" lon="-73.9411440"/>
+  <node id="42499079" lat="40.7002810" lon="-73.9411490"/>
+  <node id="42516224" lat="40.6992920" lon="-73.9413090"/>
+  <node id="42505465" lat="40.6994800" lon="-73.9397280"/>
+  <node id="42516224" lat="40.6992920" lon="-73.9413090"/>
+  <node id="42471879" lat="40.6988480" lon="-73.9385680"/>
+  <node id="42499079" lat="40.7002810" lon="-73.9411490"/>
+  <node id="42505462" lat="40.6998740" lon="-73.9404200"/>
+  <node id="42505465" lat="40.6994800" lon="-73.9397280"/>
+  <node id="42505468" lat="40.6990370" lon="-73.9389020"/>
+  <node id="42499079" lat="40.7002810" lon="-73.9411490"/>
+  <node id="42504102" lat="40.7007250" lon="-73.9419310"/>
+  <node id="42471874" lat="40.6985417" lon="-73.9411440"/>
+  <node id="42471879" lat="40.6988480" lon="-73.9385680"/>
+  <node id="42515613" lat="40.7011020" lon="-73.9392440"/>
+  <node id="42529638" lat="40.7006800" lon="-73.9384840"/>
+  <node id="42508233" lat="40.7002490" lon="-73.9377280"/>
+  <node id="42529638" lat="40.7006800" lon="-73.9384840"/>
+  <node id="42466921" lat="40.6986415" lon="-73.9381722"/>
+  <node id="42467004" lat="40.6984050" lon="-73.9377730"/>
+  <node id="42505465" lat="40.6994800" lon="-73.9397280"/>
+  <node id="42529638" lat="40.7006800" lon="-73.9384840"/>
+  <node id="42466921" lat="40.6986415" lon="-73.9381722"/>
+  <node id="42471879" lat="40.6988480" lon="-73.9385680"/>
+  <node id="42504102" lat="40.7007250" lon="-73.9419310"/>
+  <node id="2530160374" lat="40.7007001" lon="-73.9421347"/>
+  <node id="42499465" lat="40.6944340" lon="-73.9313509"/>
+  <node id="42499470" lat="40.6936920" lon="-73.9312040"/>
+  <node id="42473252" lat="40.6896936" lon="-73.9333961"/>
+  <node id="42473255" lat="40.6889614" lon="-73.9332499"/>
+  <node id="42485003" lat="40.6929040" lon="-73.9280430"/>
+  <node id="42485004" lat="40.6925615" lon="-73.9279980"/>
+  <node id="42485004" lat="40.6925615" lon="-73.9279980"/>
+  <node id="42505500" lat="40.6927740" lon="-73.9278110"/>
+  <node id="42512274" lat="40.6941410" lon="-73.9264810">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42485007" lat="40.6918297" lon="-73.9278505"/>
+  <node id="42505511" lat="40.6920020" lon="-73.9264500"/>
+  <node id="42505515" lat="40.6919290" lon="-73.9263160"/>
+  <node id="42513757" lat="40.6933150" lon="-73.9249510"/>
+  <node id="42505507" lat="40.6923460" lon="-73.9270710"/>
+  <node id="42513748" lat="40.6937240" lon="-73.9257150">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42505497" lat="40.6931740" lon="-73.9285240"/>
+  <node id="42513732" lat="40.6945480" lon="-73.9272270">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42505494" lat="40.6932410" lon="-73.9286420"/>
+  <node id="42531902" lat="40.6932150" lon="-73.9288680"/>
+  <node id="42485003" lat="40.6929040" lon="-73.9280430"/>
+  <node id="42505500" lat="40.6927740" lon="-73.9278110"/>
+  <node id="42505503" lat="40.6926040" lon="-73.9275070"/>
+  <node id="42485004" lat="40.6925615" lon="-73.9279980"/>
+  <node id="42505503" lat="40.6926040" lon="-73.9275070"/>
+  <node id="42485003" lat="40.6929040" lon="-73.9280430"/>
+  <node id="42505497" lat="40.6931740" lon="-73.9285240"/>
+  <node id="42505503" lat="40.6926040" lon="-73.9275070"/>
+  <node id="42505507" lat="40.6923460" lon="-73.9270710"/>
+  <node id="42505511" lat="40.6920020" lon="-73.9264500"/>
+  <node id="42485007" lat="40.6918297" lon="-73.9278505"/>
+  <node id="42499480" lat="40.6914950" lon="-73.9307600"/>
+  <node id="42485016" lat="40.6889003" lon="-73.9272601"/>
+  <node id="42499494" lat="40.6885663" lon="-73.9301787"/>
+  <node id="42485004" lat="40.6925615" lon="-73.9279980"/>
+  <node id="42485007" lat="40.6918297" lon="-73.9278505"/>
+  <node id="42505494" lat="40.6932410" lon="-73.9286420"/>
+  <node id="42505497" lat="40.6931740" lon="-73.9285240"/>
+  <node id="42473203" lat="40.6967546" lon="-73.9348531"/>
+  <node id="42473207" lat="40.6962868" lon="-73.9347134"/>
+  <node id="42473213" lat="40.6955530" lon="-73.9345667"/>
+  <node id="42473215" lat="40.6948206" lon="-73.9344204"/>
+  <node id="42473217" lat="40.6940894" lon="-73.9342743"/>
+  <node id="42473222" lat="40.6933557" lon="-73.9341278"/>
+  <node id="42473229" lat="40.6926237" lon="-73.9339815"/>
+  <node id="42473232" lat="40.6918927" lon="-73.9338355"/>
+  <node id="42473239" lat="40.6911588" lon="-73.9336888"/>
+  <node id="42473245" lat="40.6904268" lon="-73.9335426"/>
+  <node id="42473252" lat="40.6896936" lon="-73.9333961"/>
+  <node id="42477921" lat="40.6950280" lon="-73.9317730"/>
+  <node id="42477923" lat="40.6963370" lon="-73.9305000"/>
+  <node id="42479511" lat="40.7008488" lon="-73.9331463"/>
+  <node id="42479515" lat="40.7020020" lon="-73.9320440"/>
+  <node id="42479524" lat="40.7034730" lon="-73.9305940"/>
+  <node id="42479528" lat="40.7041988" lon="-73.9300554"/>
+  <node id="42484343" lat="40.7000590" lon="-73.9327810"/>
+  <node id="42484345" lat="40.7015730" lon="-73.9312910"/>
+  <node id="42484348" lat="40.7030470" lon="-73.9298430"/>
+  <node id="42484352" lat="40.7045260" lon="-73.9283950"/>
+  <node id="42471586" lat="40.6964430" lon="-73.9222710"/>
+  <node id="42477543" lat="40.6951570" lon="-73.9200110"/>
+  <node id="42477862" lat="40.6985800" lon="-73.9260240"/>
+  <node id="42477894" lat="40.6987380" lon="-73.9263050"/>
+  <node id="42479004" lat="40.6917370" lon="-73.9140020"/>
+  <node id="42479515" lat="40.7020020" lon="-73.9320440"/>
+  <node id="42484345" lat="40.7015730" lon="-73.9312910"/>
+  <node id="42486693" lat="40.6925940" lon="-73.9155050"/>
+  <node id="42486705" lat="40.7028490" lon="-73.9335230"/>
+  <node id="42486707" lat="40.7024310" lon="-73.9327920"/>
+  <node id="42486712" lat="40.7011410" lon="-73.9305430"/>
+  <node id="42486715" lat="40.7007180" lon="-73.9297870"/>
+  <node id="42486716" lat="40.7002900" lon="-73.9290350"/>
+  <node id="42486718" lat="40.6998610" lon="-73.9282830"/>
+  <node id="42486722" lat="40.6995850" lon="-73.9277970"/>
+  <node id="42486724" lat="40.6994390" lon="-73.9275320"/>
+  <node id="42486727" lat="40.6991590" lon="-73.9270490"/>
+  <node id="42486728" lat="40.6990150" lon="-73.9267820"/>
+  <node id="42486735" lat="40.6983100" lon="-73.9255640"/>
+  <node id="42486739" lat="40.6981610" lon="-73.9252730"/>
+  <node id="42486742" lat="40.6981006" lon="-73.9251631"/>
+  <node id="42486743" lat="40.6977309" lon="-73.9245353"/>
+  <node id="42486746" lat="40.6972990" lon="-73.9237760"/>
+  <node id="42486749" lat="40.6968710" lon="-73.9230250"/>
+  <node id="42486754" lat="40.6960150" lon="-73.9215200"/>
+  <node id="42486759" lat="40.6955870" lon="-73.9207670"/>
+  <node id="42486764" lat="40.6947310" lon="-73.9192710"/>
+  <node id="42486769" lat="40.6943040" lon="-73.9185120"/>
+  <node id="42486774" lat="40.6938770" lon="-73.9177610"/>
+  <node id="42486778" lat="40.6934490" lon="-73.9170090"/>
+  <node id="42486781" lat="40.6930220" lon="-73.9162570"/>
+  <node id="42486785" lat="40.6921660" lon="-73.9147540"/>
+  <node id="42486789" lat="40.6913100" lon="-73.9132500"/>
+  <node id="42486791" lat="40.6908830" lon="-73.9125000"/>
+  <node id="42486793" lat="40.6904560" lon="-73.9117480"/>
+  <node id="42492396" lat="40.7009100" lon="-73.9260830"/>
+  <node id="42492398" lat="40.7023880" lon="-73.9246360"/>
+  <node id="42495992" lat="40.6943170" lon="-73.9305120"/>
+  <node id="42495994" lat="40.6956430" lon="-73.9292350"/>
+  <node id="42471591" lat="40.6979180" lon="-73.9208240"/>
+  <node id="42477544" lat="40.6966300" lon="-73.9185640"/>
+  <node id="42477864" lat="40.7000560" lon="-73.9245820"/>
+  <node id="42479524" lat="40.7034730" lon="-73.9305940"/>
+  <node id="42484348" lat="40.7030470" lon="-73.9298430"/>
+  <node id="42490298" lat="40.7037730" lon="-73.9311550"/>
+  <node id="42492396" lat="40.7009100" lon="-73.9260830"/>
+  <node id="42496644" lat="40.7026200" lon="-73.9290910"/>
+  <node id="42496649" lat="40.7021920" lon="-73.9283390"/>
+  <node id="42496653" lat="40.7017620" lon="-73.9275880"/>
+  <node id="42496656" lat="40.7013340" lon="-73.9268380"/>
+  <node id="42496660" lat="40.7004810" lon="-73.9253290"/>
+  <node id="42496664" lat="40.6996280" lon="-73.9238330"/>
+  <node id="42496668" lat="40.6992050" lon="-73.9230792"/>
+  <node id="42496674" lat="40.6987720" lon="-73.9223280"/>
+  <node id="42496676" lat="40.6984517" lon="-73.9217720"/>
+  <node id="42496680" lat="40.6983450" lon="-73.9215740"/>
+  <node id="42496687" lat="40.6974900" lon="-73.9200740"/>
+  <node id="42496692" lat="40.6970610" lon="-73.9193210"/>
+  <node id="42496698" lat="40.6962080" lon="-73.9178180"/>
+  <node id="42499461" lat="40.6947248" lon="-73.9312424"/>
+  <node id="42499465" lat="40.6944340" lon="-73.9313509"/>
+  <node id="42501294" lat="40.6914910" lon="-73.9255600"/>
+  <node id="42501296" lat="40.6921960" lon="-73.9248760"/>
+  <node id="42501299" lat="40.6929010" lon="-73.9241850">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42501296" lat="40.6921960" lon="-73.9248760"/>
+  <node id="42501430" lat="40.6911000" lon="-73.9229500"/>
+  <node id="42471602" lat="40.7009819" lon="-73.9178131"/>
+  <node id="42477552" lat="40.6996960" lon="-73.9155620"/>
+  <node id="42477871" lat="40.7031268" lon="-73.9215683"/>
+  <node id="42492385" lat="40.7039858" lon="-73.9230722"/>
+  <node id="42501190" lat="40.7005533" lon="-73.9170628"/>
+  <node id="42504160" lat="40.7057034" lon="-73.9261699">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42506548" lat="40.7035554" lon="-73.9223187"/>
+  <node id="42509655" lat="40.7014112" lon="-73.9185648"/>
+  <node id="42511908" lat="40.7052566" lon="-73.9253332"/>
+  <node id="42511911" lat="40.7048413" lon="-73.9245699"/>
+  <node id="42511913" lat="40.7044126" lon="-73.9238195"/>
+  <node id="42511927" lat="40.7026971" lon="-73.9208160"/>
+  <node id="42511930" lat="40.7022685" lon="-73.9200656"/>
+  <node id="42511934" lat="40.7018395" lon="-73.9193146"/>
+  <node id="42511953" lat="40.7001250" lon="-73.9163130"/>
+  <node id="42505492" lat="40.6938640" lon="-73.9297020"/>
+  <node id="42513723" lat="40.6952050" lon="-73.9284310"/>
+  <node id="42499820" lat="40.6989110" lon="-73.9307700"/>
+  <node id="42513705" lat="40.6978474" lon="-73.9332321">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42517060" lat="40.6971180" lon="-73.9340080"/>
+  <node id="42486715" lat="40.7007180" lon="-73.9297870"/>
+  <node id="42499816" lat="40.6992020" lon="-73.9312800"/>
+  <node id="42477862" lat="40.6985800" lon="-73.9260240"/>
+  <node id="42477864" lat="40.7000560" lon="-73.9245820"/>
+  <node id="42477867" lat="40.7015300" lon="-73.9231330"/>
+  <node id="42477871" lat="40.7031268" lon="-73.9215683"/>
+  <node id="42477874" lat="40.7047640" lon="-73.9199570"/>
+  <node id="42499834" lat="40.6948550" lon="-73.9249950"/>
+  <node id="42509628" lat="40.6938660" lon="-73.9259720"/>
+  <node id="42486739" lat="40.6981610" lon="-73.9252730"/>
+  <node id="42496664" lat="40.6996280" lon="-73.9238330"/>
+  <node id="42499830" lat="40.6961420" lon="-73.9272500">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42511927" lat="40.7026971" lon="-73.9208160"/>
+  <node id="42512101" lat="40.7043120" lon="-73.9192300"/>
+  <node id="42513726" lat="40.6951110" lon="-73.9282590">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42517074" lat="40.6980800" lon="-73.9253520"/>
+  <node id="42521479" lat="40.7011020" lon="-73.9223840"/>
+  <node id="42486743" lat="40.6977309" lon="-73.9245353"/>
+  <node id="42496668" lat="40.6992050" lon="-73.9230792"/>
+  <node id="42499831" lat="40.6957120" lon="-73.9264990"/>
+  <node id="42511930" lat="40.7022685" lon="-73.9200656"/>
+  <node id="42512105" lat="40.7038580" lon="-73.9185040"/>
+  <node id="42513729" lat="40.6946970" lon="-73.9274970"/>
+  <node id="42517081" lat="40.6982185" lon="-73.9240430"/>
+  <node id="42536210" lat="40.7006750" lon="-73.9216310"/>
+  <node id="42537507" lat="40.7049920" lon="-73.9173500"/>
+  <node id="42827600" lat="40.7080990" lon="-73.9141770"/>
+  <node id="42907469" lat="40.7060603" lon="-73.9162543"/>
+  <node id="42934641" lat="40.7071920" lon="-73.9151020"/>
+  <node id="42486722" lat="40.6995850" lon="-73.9277970"/>
+  <node id="42492364" lat="40.6974228" lon="-73.9313132"/>
+  <node id="42492371" lat="40.6974664" lon="-73.9312404"/>
+  <node id="42492375" lat="40.6982500" lon="-73.9299640"/>
+  <node id="42499470" lat="40.6936920" lon="-73.9312040"/>
+  <node id="42505492" lat="40.6938640" lon="-73.9297020"/>
+  <node id="42477923" lat="40.6963370" lon="-73.9305000"/>
+  <node id="42492360" lat="40.6970814" lon="-73.9318458">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42506580" lat="40.6966620" lon="-73.9310876">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42513709" lat="40.6973150" lon="-73.9322670"/>
+  <node id="42486712" lat="40.7011410" lon="-73.9305430"/>
+  <node id="42496644" lat="40.7026200" lon="-73.9290910"/>
+  <node id="42486746" lat="40.6972990" lon="-73.9237760"/>
+  <node id="42496674" lat="40.6987720" lon="-73.9223280"/>
+  <node id="42499833" lat="40.6952850" lon="-73.9257500"/>
+  <node id="42511934" lat="40.7018395" lon="-73.9193146"/>
+  <node id="42512110" lat="40.7034050" lon="-73.9177770">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42513737" lat="40.6942800" lon="-73.9267360">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42517087" lat="40.6983503" lon="-73.9227473"/>
+  <node id="42536212" lat="40.7002470" lon="-73.9208800"/>
+  <node id="42536742" lat="40.7045530" lon="-73.9166090"/>
+  <node id="42907474" lat="40.7056048" lon="-73.9154818"/>
+  <node id="42934645" lat="40.7067550" lon="-73.9143610">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42512274" lat="40.6941410" lon="-73.9264810">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42513726" lat="40.6951110" lon="-73.9282590">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42513729" lat="40.6946970" lon="-73.9274970"/>
+  <node id="42513732" lat="40.6945480" lon="-73.9272270">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42513737" lat="40.6942800" lon="-73.9267360">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42493898" lat="40.6907680" lon="-73.9242870"/>
+  <node id="42501277" lat="40.6913676" lon="-73.9253651"/>
+  <node id="42501294" lat="40.6914910" lon="-73.9255600"/>
+  <node id="42505511" lat="40.6920020" lon="-73.9264500"/>
+  <node id="42505515" lat="40.6919290" lon="-73.9263160"/>
+  <node id="42505519" lat="40.6908310" lon="-73.9243920"/>
+  <node id="42471595" lat="40.6986327" lon="-73.9201003"/>
+  <node id="42486742" lat="40.6981006" lon="-73.9251631"/>
+  <node id="42496676" lat="40.6984517" lon="-73.9217720"/>
+  <node id="42501174" lat="40.6987622" lon="-73.9188382"/>
+  <node id="42509643" lat="40.6984870" lon="-73.9214209"/>
+  <node id="42517081" lat="40.6982185" lon="-73.9240430"/>
+  <node id="42517087" lat="40.6983503" lon="-73.9227473"/>
+  <node id="42486715" lat="40.7007180" lon="-73.9297870"/>
+  <node id="42496649" lat="40.7021920" lon="-73.9283390"/>
+  <node id="42496660" lat="40.7004810" lon="-73.9253290"/>
+  <node id="42506544" lat="40.7019570" lon="-73.9238860"/>
+  <node id="42499465" lat="40.6944340" lon="-73.9313509"/>
+  <node id="3552722301" lat="40.6948292" lon="-73.9314250"/>
+  <node id="42485016" lat="40.6889003" lon="-73.9272601"/>
+  <node id="42493905" lat="40.6892750" lon="-73.9239790"/>
+  <node id="42473259" lat="40.6882318" lon="-73.9331041"/>
+  <node id="42499494" lat="40.6885663" lon="-73.9301787"/>
+  <node id="42471578" lat="40.6934550" lon="-73.9252060">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42477541" lat="40.6922130" lon="-73.9229190"/>
+  <node id="42501160" lat="40.6930410" lon="-73.9244390"/>
+  <node id="42501299" lat="40.6929010" lon="-73.9241850">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42509628" lat="40.6938660" lon="-73.9259720"/>
+  <node id="42512274" lat="40.6941410" lon="-73.9264810">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42513748" lat="40.6937240" lon="-73.9257150">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42513757" lat="40.6933150" lon="-73.9249510"/>
+  <node id="42513771" lat="40.6926260" lon="-73.9236720">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42513775" lat="40.6918230" lon="-73.9222300">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42513778" lat="40.6913530" lon="-73.9214110">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42513780" lat="40.6909270" lon="-73.9206570">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42470002" lat="40.6946740" lon="-73.9311450"/>
+  <node id="42499461" lat="40.6947248" lon="-73.9312424"/>
+  <node id="3552722301" lat="40.6948292" lon="-73.9314250"/>
+  <node id="42499827" lat="40.6977146" lon="-73.9293935"/>
+  <node id="42505487" lat="40.6953650" lon="-73.9323688"/>
+  <node id="42506580" lat="40.6966620" lon="-73.9310876">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="6684570440" lat="40.6976185" lon="-73.9295475"/>
+  <node id="42486718" lat="40.6998610" lon="-73.9282830"/>
+  <node id="42496656" lat="40.7013340" lon="-73.9268380"/>
+  <node id="42516312" lat="40.7028100" lon="-73.9253890"/>
+  <node id="42471578" lat="40.6934550" lon="-73.9252060">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42471580" lat="40.6944290" lon="-73.9242490"/>
+  <node id="42486749" lat="40.6968710" lon="-73.9230250"/>
+  <node id="42496680" lat="40.6983450" lon="-73.9215740"/>
+  <node id="42499834" lat="40.6948550" lon="-73.9249950"/>
+  <node id="42509643" lat="40.6984870" lon="-73.9214209"/>
+  <node id="42509649" lat="40.6998200" lon="-73.9201270"/>
+  <node id="42509655" lat="40.7014112" lon="-73.9185648"/>
+  <node id="42509659" lat="40.7029530" lon="-73.9170500"/>
+  <node id="42509663" lat="40.7041140" lon="-73.9158680"/>
+  <node id="42809946" lat="40.7083460" lon="-73.9115480"/>
+  <node id="42827605" lat="40.7072230" lon="-73.9126940"/>
+  <node id="42888324" lat="40.7051865" lon="-73.9147680"/>
+  <node id="42888327" lat="40.7063160" lon="-73.9136200">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42470002" lat="40.6946740" lon="-73.9311450"/>
+  <node id="42499465" lat="40.6944340" lon="-73.9313509"/>
+  <node id="42474000" lat="40.7076520" lon="-73.9217650"/>
+  <node id="42486716" lat="40.7002900" lon="-73.9290350"/>
+  <node id="42496653" lat="40.7017620" lon="-73.9275880"/>
+  <node id="42499826" lat="40.6987720" lon="-73.9305210"/>
+  <node id="42511911" lat="40.7048413" lon="-73.9245699"/>
+  <node id="42512094" lat="40.7065760" lon="-73.9228630"/>
+  <node id="42528515" lat="40.7032390" lon="-73.9261400"/>
+  <node id="42809924" lat="40.7118380" lon="-73.9174890"/>
+  <node id="42827568" lat="40.7107270" lon="-73.9186230"/>
+  <node id="42907440" lat="40.7087015" lon="-73.9206917"/>
+  <node id="42923023" lat="40.7098210" lon="-73.9195460"/>
+  <node id="42492364" lat="40.6974228" lon="-73.9313132"/>
+  <node id="42499828" lat="40.6976438" lon="-73.9293194"/>
+  <node id="6684570440" lat="40.6976185" lon="-73.9295475"/>
+  <node id="42500467" lat="40.7017500" lon="-73.9350890"/>
+  <node id="42500482" lat="40.7010830" lon="-73.9347930"/>
+  <node id="42471599" lat="40.6993920" lon="-73.9193770"/>
+  <node id="42477867" lat="40.7015300" lon="-73.9231330"/>
+  <node id="42492398" lat="40.7023880" lon="-73.9246360"/>
+  <node id="42501187" lat="40.6989650" lon="-73.9186310"/>
+  <node id="42506544" lat="40.7019570" lon="-73.9238860"/>
+  <node id="42509649" lat="40.6998200" lon="-73.9201270"/>
+  <node id="42516312" lat="40.7028100" lon="-73.9253890"/>
+  <node id="42521479" lat="40.7011020" lon="-73.9223840"/>
+  <node id="42528515" lat="40.7032390" lon="-73.9261400"/>
+  <node id="42530350" lat="40.7036670" lon="-73.9268910"/>
+  <node id="42536210" lat="40.7006750" lon="-73.9216310"/>
+  <node id="42536212" lat="40.7002470" lon="-73.9208800"/>
+  <node id="42470002" lat="40.6946740" lon="-73.9311450"/>
+  <node id="42495992" lat="40.6943170" lon="-73.9305120"/>
+  <node id="42505492" lat="40.6938640" lon="-73.9297020"/>
+  <node id="42505494" lat="40.6932410" lon="-73.9286420"/>
+  <node id="42485014" lat="40.6896336" lon="-73.9274079"/>
+  <node id="42493901" lat="40.6900110" lon="-73.9241282"/>
+  <node id="42498914" lat="40.6901279" lon="-73.9231623"/>
+  <node id="42473255" lat="40.6889614" lon="-73.9332499"/>
+  <node id="42485014" lat="40.6896336" lon="-73.9274079"/>
+  <node id="42498900" lat="40.6892729" lon="-73.9303165"/>
+  <node id="42494831" lat="40.6994090" lon="-73.9362160"/>
+  <node id="7234962663" lat="40.6982403" lon="-73.9373371"/>
+  <node id="42498583" lat="40.6961840" lon="-73.9338280"/>
+  <node id="42498587" lat="40.6972470" lon="-73.9328350"/>
+  <node id="42500473" lat="40.6981040" lon="-73.9336960"/>
+  <node id="42500475" lat="40.6984158" lon="-73.9337871"/>
+  <node id="42504529" lat="40.6978524" lon="-73.9367835"/>
+  <node id="42504531" lat="40.6990828" lon="-73.9354516"/>
+  <node id="42492371" lat="40.6974664" lon="-73.9312404"/>
+  <node id="42499806" lat="40.6998140" lon="-73.9323500"/>
+  <node id="42500477" lat="40.6991090" lon="-73.9340090"/>
+  <node id="42505479" lat="40.6973965" lon="-73.9360264"/>
+  <node id="42513694" lat="40.6987069" lon="-73.9347759">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42499809" lat="40.6996280" lon="-73.9320310"/>
+  <node id="42500482" lat="40.7010830" lon="-73.9347930"/>
+  <node id="42513688" lat="40.7006415" lon="-73.9364499"/>
+  <node id="42499813" lat="40.6993648" lon="-73.9315636"/>
+  <node id="42500475" lat="40.6984158" lon="-73.9337871"/>
+  <node id="42505482" lat="40.6969908" lon="-73.9352898"/>
+  <node id="42513699" lat="40.6982713" lon="-73.9339944">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42477921" lat="40.6950280" lon="-73.9317730"/>
+  <node id="3552722301" lat="40.6948292" lon="-73.9314250"/>
+  <node id="42492360" lat="40.6970814" lon="-73.9318458">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42492364" lat="40.6974228" lon="-73.9313132"/>
+  <node id="42473653" lat="40.7005953" lon="-73.9366538"/>
+  <node id="42513688" lat="40.7006415" lon="-73.9364499"/>
+  <node id="42500475" lat="40.6984158" lon="-73.9337871"/>
+  <node id="42500477" lat="40.6991090" lon="-73.9340090"/>
+  <node id="42479505" lat="40.7004545" lon="-73.9345238"/>
+  <node id="42500477" lat="40.6991090" lon="-73.9340090"/>
+  <node id="42500482" lat="40.7010830" lon="-73.9347930"/>
+  <node id="42471953" lat="40.6998330" lon="-73.9369630"/>
+  <node id="42494831" lat="40.6994090" lon="-73.9362160"/>
+  <node id="42494831" lat="40.6994090" lon="-73.9362160"/>
+  <node id="42504531" lat="40.6990828" lon="-73.9354516"/>
+  <node id="3020996945" lat="40.6970780" lon="-73.9355042"/>
+  <node id="3020996956" lat="40.6971314" lon="-73.9354429"/>
+  <node id="3020996956" lat="40.6971314" lon="-73.9354429"/>
+  <node id="3020996945" lat="40.6970780" lon="-73.9355042"/>
+  <node id="42492364" lat="40.6974228" lon="-73.9313132"/>
+  <node id="42513709" lat="40.6973150" lon="-73.9322670"/>
+  <node id="42500473" lat="40.6981040" lon="-73.9336960"/>
+  <node id="42504531" lat="40.6990828" lon="-73.9354516"/>
+  <node id="42513694" lat="40.6987069" lon="-73.9347759">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42513699" lat="40.6982713" lon="-73.9339944">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42513705" lat="40.6978474" lon="-73.9332321">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42513709" lat="40.6973150" lon="-73.9322670"/>
+  <node id="42479505" lat="40.7004545" lon="-73.9345238"/>
+  <node id="42479511" lat="40.7008488" lon="-73.9331463"/>
+  <node id="42479500" lat="40.7000384" lon="-73.9360843"/>
+  <node id="42479505" lat="40.7004545" lon="-73.9345238"/>
+  <node id="42505475" lat="40.6976305" lon="-73.9363959"/>
+  <node id="42505479" lat="40.6973965" lon="-73.9360264"/>
+  <node id="42504529" lat="40.6978524" lon="-73.9367835"/>
+  <node id="42505475" lat="40.6976305" lon="-73.9363959"/>
+  <node id="42473203" lat="40.6967546" lon="-73.9348531"/>
+  <node id="42477912" lat="40.6951150" lon="-73.9319290"/>
+  <node id="42477921" lat="40.6950280" lon="-73.9317730"/>
+  <node id="42492357" lat="40.6957910" lon="-73.9331180"/>
+  <node id="42498583" lat="40.6961840" lon="-73.9338280"/>
+  <node id="42505479" lat="40.6973965" lon="-73.9360264"/>
+  <node id="42505482" lat="40.6969908" lon="-73.9352898"/>
+  <node id="42505484" lat="40.6963449" lon="-73.9341373"/>
+  <node id="42505487" lat="40.6953650" lon="-73.9323688"/>
+  <node id="42494830" lat="40.6981860" lon="-73.9373910"/>
+  <node id="7234962663" lat="40.6982403" lon="-73.9373371"/>
+  <node id="42470002" lat="40.6946740" lon="-73.9311450"/>
+  <node id="42470004" lat="40.6960040" lon="-73.9298940">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42477885" lat="40.6962540" lon="-73.9303480">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42477886" lat="40.6971885" lon="-73.9288431"/>
+  <node id="42486727" lat="40.6991590" lon="-73.9270490"/>
+  <node id="42499827" lat="40.6977146" lon="-73.9293935"/>
+  <node id="42499829" lat="40.6966705" lon="-73.9282289"/>
+  <node id="42513719" lat="40.6958400" lon="-73.9295840"/>
+  <node id="42486728" lat="40.6990150" lon="-73.9267820"/>
+  <node id="42496660" lat="40.7004810" lon="-73.9253290"/>
+  <node id="42477885" lat="40.6962540" lon="-73.9303480">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42477923" lat="40.6963370" lon="-73.9305000"/>
+  <node id="42470004" lat="40.6960040" lon="-73.9298940">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42477885" lat="40.6962540" lon="-73.9303480">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42495994" lat="40.6956430" lon="-73.9292350"/>
+  <node id="42513719" lat="40.6958400" lon="-73.9295840"/>
+  <node id="42513723" lat="40.6952050" lon="-73.9284310"/>
+  <node id="42477890" lat="40.6978104" lon="-73.9278298"/>
+  <node id="42477894" lat="40.6987380" lon="-73.9263050"/>
+  <node id="42477890" lat="40.6978104" lon="-73.9278298"/>
+  <node id="42499828" lat="40.6976438" lon="-73.9293194"/>
+  <node id="42517070" lat="40.6980098" lon="-73.9260331"/>
+  <node id="42486735" lat="40.6983100" lon="-73.9255640"/>
+  <node id="42517070" lat="40.6980098" lon="-73.9260331"/>
+  <node id="42499829" lat="40.6966705" lon="-73.9282289"/>
+  <node id="42517070" lat="40.6980098" lon="-73.9260331"/>
+  <node id="42477886" lat="40.6971885" lon="-73.9288431"/>
+  <node id="42477890" lat="40.6978104" lon="-73.9278298"/>
+  <node id="42486724" lat="40.6994390" lon="-73.9275320"/>
+  <node id="42492396" lat="40.7009100" lon="-73.9260830"/>
+  <node id="42513723" lat="40.6952050" lon="-73.9284310"/>
+  <node id="42513726" lat="40.6951110" lon="-73.9282590">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42486742" lat="40.6981006" lon="-73.9251631"/>
+  <node id="42517070" lat="40.6980098" lon="-73.9260331"/>
+  <node id="42517074" lat="40.6980800" lon="-73.9253520"/>
+  <node id="42460610" lat="40.6804760" lon="-73.9222770"/>
+  <node id="42470011" lat="40.6797450" lon="-73.9221320"/>
+  <node id="42482543" lat="40.6790780" lon="-73.9219730"/>
+  <node id="42486677" lat="40.6878110" lon="-73.9236890"/>
+  <node id="42489071" lat="40.6870792" lon="-73.9235426"/>
+  <node id="42493898" lat="40.6907680" lon="-73.9242870"/>
+  <node id="42493901" lat="40.6900110" lon="-73.9241282"/>
+  <node id="42493905" lat="40.6892750" lon="-73.9239790"/>
+  <node id="42493907" lat="40.6885429" lon="-73.9238344"/>
+  <node id="42493909" lat="40.6863450" lon="-73.9233960"/>
+  <node id="42493911" lat="40.6856134" lon="-73.9232523"/>
+  <node id="42493912" lat="40.6849033" lon="-73.9231066">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42493915" lat="40.6841490" lon="-73.9229592">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42493918" lat="40.6834180" lon="-73.9228146">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42493920" lat="40.6826927" lon="-73.9226722">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42493922" lat="40.6819360" lon="-73.9225450">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42493927" lat="40.6812110" lon="-73.9224270"/>
+  <node id="42476406" lat="40.6872130" lon="-73.9180460"/>
+  <node id="42478997" lat="40.6873570" lon="-73.9182940"/>
+  <node id="42479144" lat="40.6890190" lon="-73.9212140"/>
+  <node id="42486683" lat="40.6882110" lon="-73.9198100"/>
+  <node id="42489078" lat="40.6876266" lon="-73.9187831"/>
+  <node id="42489083" lat="40.6877840" lon="-73.9190610"/>
+  <node id="42493898" lat="40.6907680" lon="-73.9242870"/>
+  <node id="42495208" lat="40.6888784" lon="-73.9209670"/>
+  <node id="42498796" lat="40.6890716" lon="-73.9213064"/>
+  <node id="42498914" lat="40.6901279" lon="-73.9231623"/>
+  <node id="42499285" lat="40.6886410" lon="-73.9205500"/>
+  <node id="42505523" lat="40.6904009" lon="-73.9236421"/>
+  <node id="42505527" lat="40.6899250" lon="-73.9228060"/>
+  <node id="42505530" lat="40.6895011" lon="-73.9220611"/>
+  <node id="2564942589" lat="40.6882683" lon="-73.9199045"/>
+  <node id="42479148" lat="40.6881150" lon="-73.9210320"/>
+  <node id="42479153" lat="40.6873846" lon="-73.9208875"/>
+  <node id="42479153" lat="40.6873846" lon="-73.9208875"/>
+  <node id="42479155" lat="40.6866500" lon="-73.9207400"/>
+  <node id="42479159" lat="40.6859189" lon="-73.9205954"/>
+  <node id="42479161" lat="40.6851999" lon="-73.9204706">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42479155" lat="40.6866500" lon="-73.9207400"/>
+  <node id="42479159" lat="40.6859189" lon="-73.9205954"/>
+  <node id="42479161" lat="40.6851999" lon="-73.9204706">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42479164" lat="40.6844545" lon="-73.9203047">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42498796" lat="40.6890716" lon="-73.9213064"/>
+  <node id="42498799" lat="40.6904990" lon="-73.9199060">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42479148" lat="40.6881150" lon="-73.9210320"/>
+  <node id="2799410691" lat="40.6887514" lon="-73.9211521"/>
+  <node id="42479144" lat="40.6890190" lon="-73.9212140"/>
+  <node id="2799410694" lat="40.6888340" lon="-73.9213191"/>
+  <node id="42495208" lat="40.6888784" lon="-73.9209670"/>
+  <node id="2799410691" lat="40.6887514" lon="-73.9211521"/>
+  <node id="42499285" lat="40.6886410" lon="-73.9205500"/>
+  <node id="42499288" lat="40.6900760" lon="-73.9191530">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42505530" lat="40.6895011" lon="-73.9220611"/>
+  <node id="42513780" lat="40.6909270" lon="-73.9206570">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42499843" lat="40.6921490" lon="-73.9194590"/>
+  <node id="42513780" lat="40.6909270" lon="-73.9206570">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42493905" lat="40.6892750" lon="-73.9239790"/>
+  <node id="42505530" lat="40.6895011" lon="-73.9220611"/>
+  <node id="42498799" lat="40.6904990" lon="-73.9199060">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42499288" lat="40.6900760" lon="-73.9191530">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42513780" lat="40.6909270" lon="-73.9206570">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42486764" lat="40.6947310" lon="-73.9192710"/>
+  <node id="42499840" lat="40.6928233" lon="-73.9212145"/>
+  <node id="42501430" lat="40.6911000" lon="-73.9229500"/>
+  <node id="42505523" lat="40.6904009" lon="-73.9236421"/>
+  <node id="42513775" lat="40.6918230" lon="-73.9222300">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42486754" lat="40.6960150" lon="-73.9215200"/>
+  <node id="42496687" lat="40.6974900" lon="-73.9200740"/>
+  <node id="42499836" lat="40.6940010" lon="-73.9234980"/>
+  <node id="42501160" lat="40.6930410" lon="-73.9244390"/>
+  <node id="42501174" lat="40.6987622" lon="-73.9188382"/>
+  <node id="42486759" lat="40.6955870" lon="-73.9207670"/>
+  <node id="42496692" lat="40.6970610" lon="-73.9193210"/>
+  <node id="42499838" lat="40.6935730" lon="-73.9227480"/>
+  <node id="42511953" lat="40.7001250" lon="-73.9163130"/>
+  <node id="42512120" lat="40.7016170" lon="-73.9148500"/>
+  <node id="42513771" lat="40.6926260" lon="-73.9236720">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42517097" lat="40.6988980" lon="-73.9175228"/>
+  <node id="42518733" lat="40.6985370" lon="-73.9178720"/>
+  <node id="42518739" lat="40.7027990" lon="-73.9136440"/>
+  <node id="42806584" lat="40.7081150" lon="-73.9082170"/>
+  <node id="42809955" lat="40.7070350" lon="-73.9093220"/>
+  <node id="42827615" lat="40.7059080" lon="-73.9104710"/>
+  <node id="42851917" lat="40.7093060" lon="-73.9070000"/>
+  <node id="42862029" lat="40.7112720" lon="-73.9030360"/>
+  <node id="42877013" lat="40.7106430" lon="-73.9056390"/>
+  <node id="42902896" lat="40.7050020" lon="-73.9113960">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42902907" lat="40.7107560" lon="-73.9050930"/>
+  <node id="42902909" lat="40.7110040" lon="-73.9040530"/>
+  <node id="3325564427" lat="40.7038765" lon="-73.9125563"/>
+  <node id="42486769" lat="40.6943040" lon="-73.9185120"/>
+  <node id="42496701" lat="40.6957820" lon="-73.9170710">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42499841" lat="40.6924850" lon="-73.9203010"/>
+  <node id="42505527" lat="40.6899250" lon="-73.9228060"/>
+  <node id="42511976" lat="40.6988384" lon="-73.9140606"/>
+  <node id="42512126" lat="40.7003580" lon="-73.9125690"/>
+  <node id="42513778" lat="40.6913530" lon="-73.9214110">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42517106" lat="40.6993038" lon="-73.9136017"/>
+  <node id="42536220" lat="40.6972530" lon="-73.9156160"/>
+  <node id="42806593" lat="40.7067990" lon="-73.9059960"/>
+  <node id="42809965" lat="40.7057220" lon="-73.9070930"/>
+  <node id="42827625" lat="40.7045930" lon="-73.9082470"/>
+  <node id="42851922" lat="40.7079900" lon="-73.9047770"/>
+  <node id="42907493" lat="40.7025590" lon="-73.9103260"/>
+  <node id="42918926" lat="40.7086213" lon="-73.9040997"/>
+  <node id="42934657" lat="40.7036880" lon="-73.9091730"/>
+  <node id="597700290" lat="40.7014956" lon="-73.9113992"/>
+  <node id="42477541" lat="40.6922130" lon="-73.9229190"/>
+  <node id="42477542" lat="40.6931440" lon="-73.9219940"/>
+  <node id="42477543" lat="40.6951570" lon="-73.9200110"/>
+  <node id="42477544" lat="40.6966300" lon="-73.9185640"/>
+  <node id="42477549" lat="40.6990320" lon="-73.9162195"/>
+  <node id="42477552" lat="40.6996960" lon="-73.9155620"/>
+  <node id="42477555" lat="40.7011980" lon="-73.9140880"/>
+  <node id="3325564446" lat="40.7023672" lon="-73.9128975"/>
+  <node id="5435873481" lat="40.6981100" lon="-73.9171180"/>
+  <node id="42471580" lat="40.6944290" lon="-73.9242490"/>
+  <node id="42471586" lat="40.6964430" lon="-73.9222710"/>
+  <node id="42471591" lat="40.6979180" lon="-73.9208240"/>
+  <node id="42471595" lat="40.6986327" lon="-73.9201003"/>
+  <node id="42471599" lat="40.6993920" lon="-73.9193770"/>
+  <node id="42471602" lat="40.7009819" lon="-73.9178131"/>
+  <node id="42471605" lat="40.7024990" lon="-73.9163250"/>
+  <node id="42471607" lat="40.7036770" lon="-73.9151260"/>
+  <node id="42809951" lat="40.7079080" lon="-73.9108050"/>
+  <node id="42814480" lat="40.7047315" lon="-73.9140059"/>
+  <node id="42814482" lat="40.7058790" lon="-73.9128780">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42814485" lat="40.7067840" lon="-73.9119520"/>
+  <node id="42505412" lat="40.7064920" lon="-73.9522895"/>
+  <node id="598033006" lat="40.7065483" lon="-73.9510473"/>
+  <node id="42482048" lat="40.7063473" lon="-73.9519201">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="598033006" lat="40.7065483" lon="-73.9510473"/>
+  <node id="42477584" lat="40.7044180" lon="-73.9519000">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42531741" lat="40.7049830" lon="-73.9525320"/>
+  <node id="42474161" lat="40.7084285" lon="-73.9513365"/>
+  <node id="42490941" lat="40.7065692" lon="-73.9525041"/>
+  <node id="42490942" lat="40.7072208" lon="-73.9520835"/>
+  <node id="42490943" lat="40.7078205" lon="-73.9517181"/>
+  <node id="42489757" lat="40.7098940" lon="-73.9469730"/>
+  <node id="42496941" lat="40.7095130" lon="-73.9508750"/>
+  <node id="42496943" lat="40.7097250" lon="-73.9486550"/>
+  <node id="42482192" lat="40.7026170" lon="-73.9531810">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42505420" lat="40.7050197" lon="-73.9494703">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42520562" lat="40.7045440" lon="-73.9502020">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42522394" lat="40.7013820" lon="-73.9550910">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42522399" lat="40.7038530" lon="-73.9512700">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42467858" lat="40.7130870" lon="-73.9441480">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42491180" lat="40.7127700" lon="-73.9474820"/>
+  <node id="42520582" lat="40.7124006" lon="-73.9513324"/>
+  <node id="42525812" lat="40.7126120" lon="-73.9491310"/>
+  <node id="42525818" lat="40.7129270" lon="-73.9458340"/>
+  <node id="42474156" lat="40.7089740" lon="-73.9528300"/>
+  <node id="42491450" lat="40.7070866" lon="-73.9540209">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42491453" lat="40.7077450" lon="-73.9536060"/>
+  <node id="42491456" lat="40.7083663" lon="-73.9532127"/>
+  <node id="42491462" lat="40.7097160" lon="-73.9523600"/>
+  <node id="42491468" lat="40.7103360" lon="-73.9519680"/>
+  <node id="42491478" lat="40.7109121" lon="-73.9516148"/>
+  <node id="42514959" lat="40.7066530" lon="-73.9504060">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="598033006" lat="40.7065483" lon="-73.9510473"/>
+  <node id="42488291" lat="40.7089128" lon="-73.9547149"/>
+  <node id="42490943" lat="40.7078205" lon="-73.9517181"/>
+  <node id="42491456" lat="40.7083663" lon="-73.9532127"/>
+  <node id="42520569" lat="40.7074231" lon="-73.9505341"/>
+  <node id="42520715" lat="40.7093500" lon="-73.9558706">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42491173" lat="40.7113240" lon="-73.9472450">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42520579" lat="40.7109567" lon="-73.9511193">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42527647" lat="40.7111680" lon="-73.9488920">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42535541" lat="40.7114810" lon="-73.9455960">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42477588" lat="40.7054336" lon="-73.9502136">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42482048" lat="40.7063473" lon="-73.9519201">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42490941" lat="40.7065692" lon="-73.9525041"/>
+  <node id="42490968" lat="40.7067090" lon="-73.9529118">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42491450" lat="40.7070866" lon="-73.9540209">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42505412" lat="40.7064920" lon="-73.9522895"/>
+  <node id="42505415" lat="40.7059187" lon="-73.9510745">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="6291247293" lat="40.7057996" lon="-73.9508632"/>
+  <node id="42488286" lat="40.7082660" lon="-73.9551190"/>
+  <node id="42490942" lat="40.7072208" lon="-73.9520835"/>
+  <node id="42491453" lat="40.7077450" lon="-73.9536060"/>
+  <node id="42514949" lat="40.7086740" lon="-73.9563050">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42514959" lat="40.7066530" lon="-73.9504060">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42490951" lat="40.7091373" lon="-73.9508170"/>
+  <node id="42491462" lat="40.7097160" lon="-73.9523600"/>
+  <node id="42477584" lat="40.7044180" lon="-73.9519000">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42519635" lat="40.7032870" lon="-73.9506410">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42522399" lat="40.7038530" lon="-73.9512700">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42474161" lat="40.7084285" lon="-73.9513365"/>
+  <node id="4593135573" lat="40.7090392" lon="-73.9508003"/>
+  <node id="42474161" lat="40.7084285" lon="-73.9513365"/>
+  <node id="42474162" lat="40.7081700" lon="-73.9506600"/>
+  <node id="42496426" lat="40.7059145" lon="-73.9502895"/>
+  <node id="6291247293" lat="40.7057996" lon="-73.9508632"/>
+  <node id="42467844" lat="40.7109010" lon="-73.9437880">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42491169" lat="40.7105880" lon="-73.9471040"/>
+  <node id="42520577" lat="40.7102210" lon="-73.9509940"/>
+  <node id="42527642" lat="40.7104320" lon="-73.9487710"/>
+  <node id="42535525" lat="40.7107400" lon="-73.9454750"/>
+  <node id="42481931" lat="40.7116926" lon="-73.9512284"/>
+  <node id="42491177" lat="40.7120610" lon="-73.9473660"/>
+  <node id="42514864" lat="40.7119040" lon="-73.9490140"/>
+  <node id="42514870" lat="40.7122180" lon="-73.9457170"/>
+  <node id="42490951" lat="40.7091373" lon="-73.9508170"/>
+  <node id="42496941" lat="40.7095130" lon="-73.9508750"/>
+  <node id="42504297" lat="40.7099910" lon="-73.9509560"/>
+  <node id="42520577" lat="40.7102210" lon="-73.9509940"/>
+  <node id="42520579" lat="40.7109567" lon="-73.9511193">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42463350" lat="40.7124631" lon="-73.9538967"/>
+  <node id="42481921" lat="40.7120402" lon="-73.9527294"/>
+  <node id="42481931" lat="40.7116926" lon="-73.9512284"/>
+  <node id="42488310" lat="40.7127020" lon="-73.9523190"/>
+  <node id="42520582" lat="40.7124006" lon="-73.9513324"/>
+  <node id="42520729" lat="40.7131230" lon="-73.9534980"/>
+  <node id="42491478" lat="40.7109121" lon="-73.9516148"/>
+  <node id="42520579" lat="40.7109567" lon="-73.9511193">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42481931" lat="40.7116926" lon="-73.9512284"/>
+  <node id="42484200" lat="40.7140674" lon="-73.9516047">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42488313" lat="40.7138268" lon="-73.9515729"/>
+  <node id="42520579" lat="40.7109567" lon="-73.9511193">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42520582" lat="40.7124006" lon="-73.9513324"/>
+  <node id="42520585" lat="40.7131084" lon="-73.9514517"/>
+  <node id="42474150" lat="40.7099521" lon="-73.9554897">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42474153" lat="40.7095220" lon="-73.9543260"/>
+  <node id="42474156" lat="40.7089740" lon="-73.9528300"/>
+  <node id="42474161" lat="40.7084285" lon="-73.9513365"/>
+  <node id="480214899" lat="40.7100636" lon="-73.9558016"/>
+  <node id="42491468" lat="40.7103360" lon="-73.9519680"/>
+  <node id="42504294" lat="40.7101720" lon="-73.9515160"/>
+  <node id="42504297" lat="40.7099910" lon="-73.9509560"/>
+  <node id="4202609198" lat="40.7107933" lon="-73.9527927"/>
+  <node id="42491478" lat="40.7109121" lon="-73.9516148"/>
+  <node id="4202609199" lat="40.7108218" lon="-73.9525017"/>
+  <node id="4593135567" lat="40.7108665" lon="-73.9520524"/>
+  <node id="42504294" lat="40.7101720" lon="-73.9515160"/>
+  <node id="42520577" lat="40.7102210" lon="-73.9509940"/>
+  <node id="42492003" lat="40.7015940" lon="-73.9487480">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42492006" lat="40.7027840" lon="-73.9469070"/>
+  <node id="42492008" lat="40.7032154" lon="-73.9462428"/>
+  <node id="42501130" lat="40.7045565" lon="-73.9478269"/>
+  <node id="42501132" lat="40.7042764" lon="-73.9481358"/>
+  <node id="42499129" lat="40.7048158" lon="-73.9491085"/>
+  <node id="42499132" lat="40.7044749" lon="-73.9488044"/>
+  <node id="598033003" lat="40.7043229" lon="-73.9486201"/>
+  <node id="598033005" lat="40.7045127" lon="-73.9485600"/>
+  <node id="42477588" lat="40.7054336" lon="-73.9502136">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42519640" lat="40.7035560" lon="-73.9502250">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42520556" lat="40.7025700" lon="-73.9502510">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42520559" lat="40.7029400" lon="-73.9502470">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42520562" lat="40.7045440" lon="-73.9502020">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42491136" lat="40.7029999" lon="-73.9458579"/>
+  <node id="42491139" lat="40.7034220" lon="-73.9459090"/>
+  <node id="42491139" lat="40.7034220" lon="-73.9459090"/>
+  <node id="42492008" lat="40.7032154" lon="-73.9462428"/>
+  <node id="42520559" lat="40.7029400" lon="-73.9502470">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42527626" lat="40.7027260" lon="-73.9500130">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42519635" lat="40.7032870" lon="-73.9506410">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42520559" lat="40.7029400" lon="-73.9502470">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42475328" lat="40.7021590" lon="-73.9493790"/>
+  <node id="42492003" lat="40.7015940" lon="-73.9487480">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42527626" lat="40.7027260" lon="-73.9500130">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42477588" lat="40.7054336" lon="-73.9502136">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42496426" lat="40.7059145" lon="-73.9502895"/>
+  <node id="42514959" lat="40.7066530" lon="-73.9504060">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42499143" lat="40.7022200" lon="-73.9462760"/>
+  <node id="42505442" lat="40.7027701" lon="-73.9454473"/>
+  <node id="42475331" lat="40.7033510" lon="-73.9475390"/>
+  <node id="42492006" lat="40.7027840" lon="-73.9469070"/>
+  <node id="42499132" lat="40.7044749" lon="-73.9488044"/>
+  <node id="42499136" lat="40.7039148" lon="-73.9481813">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42499143" lat="40.7022200" lon="-73.9462760"/>
+  <node id="598033003" lat="40.7043229" lon="-73.9486201"/>
+  <node id="42501132" lat="40.7042764" lon="-73.9481358"/>
+  <node id="42505433" lat="40.7041172" lon="-73.9478540">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42475336" lat="40.7036668" lon="-73.9470493"/>
+  <node id="42491136" lat="40.7029999" lon="-73.9458579"/>
+  <node id="42492008" lat="40.7032154" lon="-73.9462428"/>
+  <node id="42505433" lat="40.7041172" lon="-73.9478540">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42505442" lat="40.7027701" lon="-73.9454473"/>
+  <node id="42477588" lat="40.7054336" lon="-73.9502136">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="6859710890" lat="40.7053781" lon="-73.9501140"/>
+  <node id="42476777" lat="40.7052097" lon="-73.9498116"/>
+  <node id="42499129" lat="40.7048158" lon="-73.9491085"/>
+  <node id="42501132" lat="40.7042764" lon="-73.9481358"/>
+  <node id="42505420" lat="40.7050197" lon="-73.9494703">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="598033005" lat="40.7045127" lon="-73.9485600"/>
+  <node id="6859710890" lat="40.7053781" lon="-73.9501140"/>
+  <node id="42501140" lat="40.7055160" lon="-73.9380730"/>
+  <node id="42504272" lat="40.7048220" lon="-73.9378490"/>
+  <node id="42467811" lat="40.7030530" lon="-73.9424950"/>
+  <node id="42509015" lat="40.7029006" lon="-73.9441935"/>
+  <node id="42504272" lat="40.7048220" lon="-73.9378490"/>
+  <node id="42513670" lat="40.7045609" lon="-73.9391276"/>
+  <node id="42513678" lat="40.7039939" lon="-73.9385202"/>
+  <node id="3539722831" lat="40.7040686" lon="-73.9392740"/>
+  <node id="42467807" lat="40.7023460" lon="-73.9423855"/>
+  <node id="42505452" lat="40.7019743" lon="-73.9440256"/>
+  <node id="42529854" lat="40.7021931" lon="-73.9440653"/>
+  <node id="42476805" lat="40.7062650" lon="-73.9390370"/>
+  <node id="42496367" lat="40.7070150" lon="-73.9387050"/>
+  <node id="42467825" lat="40.7065970" lon="-73.9430860"/>
+  <node id="42496356" lat="40.7067580" lon="-73.9413990"/>
+  <node id="42496361" lat="40.7069180" lon="-73.9397150"/>
+  <node id="42496361" lat="40.7069180" lon="-73.9397150"/>
+  <node id="42513657" lat="40.7076540" lon="-73.9398380"/>
+  <node id="42476793" lat="40.7062100" lon="-73.9395980"/>
+  <node id="42496361" lat="40.7069180" lon="-73.9397150"/>
+  <node id="3539725770" lat="40.7052512" lon="-73.9394224"/>
+  <node id="42467803" lat="40.7016370" lon="-73.9422670"/>
+  <node id="42501379" lat="40.7017980" lon="-73.9405440"/>
+  <node id="42467507" lat="40.7014417" lon="-73.9430797">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="2307731133" lat="40.7015656" lon="-73.9429929"/>
+  <node id="42467814" lat="40.7037640" lon="-73.9426140"/>
+  <node id="42467817" lat="40.7044730" lon="-73.9427340"/>
+  <node id="42467820" lat="40.7051820" lon="-73.9428500"/>
+  <node id="42467823" lat="40.7058880" lon="-73.9429660"/>
+  <node id="42467825" lat="40.7065970" lon="-73.9430860"/>
+  <node id="42505452" lat="40.7019743" lon="-73.9440256"/>
+  <node id="42505456" lat="40.7018620" lon="-73.9438250"/>
+  <node id="42467507" lat="40.7014417" lon="-73.9430797">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42505456" lat="40.7018620" lon="-73.9438250"/>
+  <node id="42467820" lat="40.7051820" lon="-73.9428500"/>
+  <node id="42467811" lat="40.7030530" lon="-73.9424950"/>
+  <node id="42502943" lat="40.7032149" lon="-73.9407492"/>
+  <node id="42467803" lat="40.7016370" lon="-73.9422670"/>
+  <node id="2307731133" lat="40.7015656" lon="-73.9429929"/>
+  <node id="42466686" lat="40.7042284" lon="-73.9387858"/>
+  <node id="42513670" lat="40.7045609" lon="-73.9391276"/>
+  <node id="42513666" lat="40.7047858" lon="-73.9393923"/>
+  <node id="42513670" lat="40.7045609" lon="-73.9391276"/>
+  <node id="3539725770" lat="40.7052512" lon="-73.9394224"/>
+  <node id="42513670" lat="40.7045609" lon="-73.9391276"/>
+  <node id="3539725770" lat="40.7052512" lon="-73.9394224"/>
+  <node id="42466686" lat="40.7042284" lon="-73.9387858"/>
+  <node id="3539722830" lat="40.7041715" lon="-73.9387265"/>
+  <node id="42467807" lat="40.7023460" lon="-73.9423855"/>
+  <node id="42529854" lat="40.7021931" lon="-73.9440653"/>
+  <node id="42467807" lat="40.7023460" lon="-73.9423855"/>
+  <node id="7284726692" lat="40.7020757" lon="-73.9423442"/>
+  <node id="42467807" lat="40.7023460" lon="-73.9423855"/>
+  <node id="42467811" lat="40.7030530" lon="-73.9424950"/>
+  <node id="42467811" lat="40.7030530" lon="-73.9424950"/>
+  <node id="42467814" lat="40.7037640" lon="-73.9426140"/>
+  <node id="42467803" lat="40.7016370" lon="-73.9422670"/>
+  <node id="7284726692" lat="40.7020757" lon="-73.9423442"/>
+  <node id="42467823" lat="40.7058880" lon="-73.9429660"/>
+  <node id="42476777" lat="40.7052097" lon="-73.9498116"/>
+  <node id="42476779" lat="40.7054420" lon="-73.9479810"/>
+  <node id="42476783" lat="40.7056040" lon="-73.9462650"/>
+  <node id="42476785" lat="40.7057390" lon="-73.9446870"/>
+  <node id="42479987" lat="40.7058680" lon="-73.9362340"/>
+  <node id="42501140" lat="40.7055160" lon="-73.9380730"/>
+  <node id="42501147" lat="40.7060116" lon="-73.9354769"/>
+  <node id="42501152" lat="40.7063710" lon="-73.9335940"/>
+  <node id="3539725770" lat="40.7052512" lon="-73.9394224"/>
+  <node id="42484210" lat="40.7146860" lon="-73.9426886">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42502970" lat="40.7125370" lon="-73.9423500"/>
+  <node id="42502973" lat="40.7132440" lon="-73.9424660"/>
+  <node id="42502976" lat="40.7139550" lon="-73.9425830"/>
+  <node id="42467835" lat="40.7087810" lon="-73.9434400"/>
+  <node id="42474044" lat="40.7093778" lon="-73.9370963"/>
+  <node id="42474162" lat="40.7081700" lon="-73.9506600"/>
+  <node id="42490325" lat="40.7099880" lon="-73.9332960"/>
+  <node id="42491159" lat="40.7084660" lon="-73.9467560"/>
+  <node id="42502959" lat="40.7089440" lon="-73.9417590"/>
+  <node id="42511044" lat="40.7083050" lon="-73.9484210"/>
+  <node id="42511050" lat="40.7086250" lon="-73.9451250"/>
+  <node id="42511123" lat="40.7091020" lon="-73.9400760"/>
+  <node id="42511131" lat="40.7095935" lon="-73.9348751"/>
+  <node id="42464411" lat="40.7131660" lon="-73.9373830"/>
+  <node id="42494194" lat="40.7132019" lon="-73.9388003"/>
+  <node id="42502970" lat="40.7125370" lon="-73.9423500"/>
+  <node id="42513628" lat="40.7126660" lon="-73.9410410"/>
+  <node id="42514879" lat="40.7128761" lon="-73.9401312"/>
+  <node id="42467817" lat="40.7044730" lon="-73.9427340"/>
+  <node id="42502948" lat="40.7046370" lon="-73.9410300"/>
+  <node id="42513666" lat="40.7047858" lon="-73.9393923"/>
+  <node id="42521981" lat="40.7043090" lon="-73.9444500"/>
+  <node id="42474048" lat="40.7100914" lon="-73.9372086"/>
+  <node id="42485763" lat="40.7098071" lon="-73.9401822"/>
+  <node id="42474042" lat="40.7086780" lon="-73.9369800"/>
+  <node id="42490322" lat="40.7092958" lon="-73.9329869">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42518747" lat="40.7089068" lon="-73.9345718"/>
+  <node id="42529171" lat="40.7084950" lon="-73.9388640"/>
+  <node id="42474052" lat="40.7118137" lon="-73.9379856"/>
+  <node id="42490334" lat="40.7127540" lon="-73.9345340"/>
+  <node id="42467820" lat="40.7051820" lon="-73.9428500"/>
+  <node id="42535511" lat="40.7050210" lon="-73.9445670"/>
+  <node id="42513657" lat="40.7076540" lon="-73.9398380"/>
+  <node id="42523550" lat="40.7077820" lon="-73.9385280"/>
+  <node id="42467828" lat="40.7073350" lon="-73.9432020"/>
+  <node id="42491149" lat="40.7070110" lon="-73.9465230"/>
+  <node id="42502953" lat="40.7074930" lon="-73.9415180"/>
+  <node id="42513657" lat="40.7076540" lon="-73.9398380"/>
+  <node id="42514959" lat="40.7066530" lon="-73.9504060">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42523539" lat="40.7068520" lon="-73.9481960"/>
+  <node id="42523544" lat="40.7071690" lon="-73.9449040">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42467823" lat="40.7058880" lon="-73.9429660"/>
+  <node id="42476791" lat="40.7060490" lon="-73.9412820"/>
+  <node id="42476793" lat="40.7062100" lon="-73.9395980"/>
+  <node id="42476805" lat="40.7062650" lon="-73.9390370"/>
+  <node id="42476811" lat="40.7065855" lon="-73.9356665"/>
+  <node id="42476503" lat="40.7164744" lon="-73.9497643">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42476614" lat="40.7169262" lon="-73.9498387">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42476779" lat="40.7054420" lon="-73.9479810"/>
+  <node id="42496943" lat="40.7097250" lon="-73.9486550"/>
+  <node id="42499136" lat="40.7039148" lon="-73.9481813">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42501130" lat="40.7045565" lon="-73.9478269"/>
+  <node id="42505433" lat="40.7041172" lon="-73.9478540">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42509216" lat="40.7217050" lon="-73.9506460"/>
+  <node id="42509922" lat="40.7161773" lon="-73.9497154"/>
+  <node id="42511013" lat="40.7183000" lon="-73.9500650">
+    <tag k="highway" v="stop"/>
+  </node>
+  <node id="42511044" lat="40.7083050" lon="-73.9484210"/>
+  <node id="42512058" lat="40.7190090" lon="-73.9501800">
+    <tag k="highway" v="stop"/>
+    <tag k="stop" v="all"/>
+  </node>
+  <node id="42514864" lat="40.7119040" lon="-73.9490140"/>
+  <node id="42518609" lat="40.7147550" lon="-73.9494820"/>
+  <node id="42520556" lat="40.7025700" lon="-73.9502510">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42523539" lat="40.7068520" lon="-73.9481960"/>
+  <node id="42523854" lat="40.7090150" lon="-73.9485390"/>
+  <node id="42525812" lat="40.7126120" lon="-73.9491310"/>
+  <node id="42527626" lat="40.7027260" lon="-73.9500130">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42527635" lat="40.7075970" lon="-73.9483030"/>
+  <node id="42527642" lat="40.7104320" lon="-73.9487710"/>
+  <node id="42527647" lat="40.7111680" lon="-73.9488920">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42527653" lat="40.7133200" lon="-73.9492450"/>
+  <node id="42527659" lat="40.7154640" lon="-73.9495980"/>
+  <node id="42527665" lat="40.7175903" lon="-73.9499480"/>
+  <node id="598031727" lat="40.7171094" lon="-73.9498688"/>
+  <node id="5029095994" lat="40.7139773" lon="-73.9493545">
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="5482177473" lat="40.7140807" lon="-73.9493717">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42467825" lat="40.7065970" lon="-73.9430860"/>
+  <node id="42496352" lat="40.7064410" lon="-73.9448020"/>
+  <node id="42467831" lat="40.7080710" lon="-73.9433220"/>
+  <node id="42491152" lat="40.7077540" lon="-73.9466560"/>
+  <node id="42520569" lat="40.7074231" lon="-73.9505341"/>
+  <node id="42527635" lat="40.7075970" lon="-73.9483030"/>
+  <node id="42529162" lat="40.7079110" lon="-73.9450060"/>
+  <node id="42490315" lat="40.7077460" lon="-73.9323135"/>
+  <node id="42496361" lat="40.7069180" lon="-73.9397150"/>
+  <node id="42496367" lat="40.7070150" lon="-73.9387050"/>
+  <node id="42496377" lat="40.7074870" lon="-73.9339190"/>
+  <node id="42467825" lat="40.7065970" lon="-73.9430860"/>
+  <node id="42467828" lat="40.7073350" lon="-73.9432020"/>
+  <node id="42467831" lat="40.7080710" lon="-73.9433220"/>
+  <node id="42474048" lat="40.7100914" lon="-73.9372086"/>
+  <node id="42474050" lat="40.7104546" lon="-73.9373295"/>
+  <node id="42474051" lat="40.7111837" lon="-73.9376747"/>
+  <node id="42474052" lat="40.7118137" lon="-73.9379856"/>
+  <node id="42474056" lat="40.7125240" lon="-73.9383200"/>
+  <node id="42479990" lat="40.7051770" lon="-73.9360020"/>
+  <node id="42504272" lat="40.7048220" lon="-73.9378490"/>
+  <node id="42496367" lat="40.7070150" lon="-73.9387050"/>
+  <node id="42523550" lat="40.7077820" lon="-73.9385280"/>
+  <node id="42513678" lat="40.7039939" lon="-73.9385202"/>
+  <node id="42528875" lat="40.7046275" lon="-73.9350195"/>
+  <node id="42467814" lat="40.7037640" lon="-73.9426140"/>
+  <node id="42491139" lat="40.7034220" lon="-73.9459090"/>
+  <node id="42502945" lat="40.7039275" lon="-73.9408640"/>
+  <node id="42528868" lat="40.7035921" lon="-73.9443189"/>
+  <node id="3539722830" lat="40.7041715" lon="-73.9387265"/>
+  <node id="3539722831" lat="40.7040686" lon="-73.9392740"/>
+  <node id="42466376" lat="40.7212920" lon="-73.9488750"/>
+  <node id="42476514" lat="40.7174432" lon="-73.9482647">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42476625" lat="40.7178728" lon="-73.9483301">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42476783" lat="40.7056040" lon="-73.9462650"/>
+  <node id="42479283" lat="40.7240560" lon="-73.9499240">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42484205" lat="40.7142160" lon="-73.9477190">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42489757" lat="40.7098940" lon="-73.9469730"/>
+  <node id="42491139" lat="40.7034220" lon="-73.9459090"/>
+  <node id="42491149" lat="40.7070110" lon="-73.9465230"/>
+  <node id="42491152" lat="40.7077540" lon="-73.9466560"/>
+  <node id="42491159" lat="40.7084660" lon="-73.9467560"/>
+  <node id="42491164" lat="40.7091780" lon="-73.9468530"/>
+  <node id="42491169" lat="40.7105880" lon="-73.9471040"/>
+  <node id="42491173" lat="40.7113240" lon="-73.9472450">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42491177" lat="40.7120610" lon="-73.9473660"/>
+  <node id="42491180" lat="40.7127700" lon="-73.9474820"/>
+  <node id="42491183" lat="40.7134770" lon="-73.9475970"/>
+  <node id="42491188" lat="40.7149140" lon="-73.9478330"/>
+  <node id="42491195" lat="40.7156170" lon="-73.9479540"/>
+  <node id="42491203" lat="40.7163310" lon="-73.9480670"/>
+  <node id="42491205" lat="40.7170339" lon="-73.9481847"/>
+  <node id="42491217" lat="40.7184550" lon="-73.9484160"/>
+  <node id="42491220" lat="40.7191680" lon="-73.9485320"/>
+  <node id="42491222" lat="40.7225609" lon="-73.9490794">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42476785" lat="40.7057390" lon="-73.9446870"/>
+  <node id="42496352" lat="40.7064410" lon="-73.9448020"/>
+  <node id="42509015" lat="40.7029006" lon="-73.9441935"/>
+  <node id="42521981" lat="40.7043090" lon="-73.9444500"/>
+  <node id="42523544" lat="40.7071690" lon="-73.9449040">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42528868" lat="40.7035921" lon="-73.9443189"/>
+  <node id="42529854" lat="40.7021931" lon="-73.9440653"/>
+  <node id="42535511" lat="40.7050210" lon="-73.9445670"/>
+  <node id="42511050" lat="40.7086250" lon="-73.9451250"/>
+  <node id="42523544" lat="40.7071690" lon="-73.9449040">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42529162" lat="40.7079110" lon="-73.9450060"/>
+  <node id="42535525" lat="40.7107400" lon="-73.9454750"/>
+  <node id="42535541" lat="40.7114810" lon="-73.9455960">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42505449" lat="40.7021658" lon="-73.9443677"/>
+  <node id="42529854" lat="40.7021931" lon="-73.9440653"/>
+  <node id="42485763" lat="40.7098071" lon="-73.9401822"/>
+  <node id="42511123" lat="40.7091020" lon="-73.9400760"/>
+  <node id="42513616" lat="40.7140061" lon="-73.9417117"/>
+  <node id="42513623" lat="40.7133470" lon="-73.9413850"/>
+  <node id="42513628" lat="40.7126660" lon="-73.9410410"/>
+  <node id="42513634" lat="40.7119620" lon="-73.9406880"/>
+  <node id="42513647" lat="40.7112180" lon="-73.9404230"/>
+  <node id="42513654" lat="40.7083900" lon="-73.9399580"/>
+  <node id="42513657" lat="40.7076540" lon="-73.9398380"/>
+  <node id="42474162" lat="40.7081700" lon="-73.9506600"/>
+  <node id="42514959" lat="40.7066530" lon="-73.9504060">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42520569" lat="40.7074231" lon="-73.9505341"/>
+  <node id="42505442" lat="40.7027701" lon="-73.9454473"/>
+  <node id="42505446" lat="40.7023160" lon="-73.9446361"/>
+  <node id="42505449" lat="40.7021658" lon="-73.9443677"/>
+  <node id="42505452" lat="40.7019743" lon="-73.9440256"/>
+  <node id="42466376" lat="40.7212920" lon="-73.9488750"/>
+  <node id="42476522" lat="40.7184140" lon="-73.9467338">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42476636" lat="40.7187967" lon="-73.9467812">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42484207" lat="40.7143720" lon="-73.9460700">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42505939" lat="40.7171980" lon="-73.9465330"/>
+  <node id="42509933" lat="40.7164870" lon="-73.9464170"/>
+  <node id="42512070" lat="40.7195840" lon="-73.9469890"/>
+  <node id="42514870" lat="40.7122180" lon="-73.9457170"/>
+  <node id="42518614" lat="40.7150670" lon="-73.9461860"/>
+  <node id="42523210" lat="40.7203470" lon="-73.9477940"/>
+  <node id="42525818" lat="40.7129270" lon="-73.9458340"/>
+  <node id="42528046" lat="40.7136380" lon="-73.9459490"/>
+  <node id="42529769" lat="40.7179070" lon="-73.9466530"/>
+  <node id="42532947" lat="40.7201390" lon="-73.9475770"/>
+  <node id="42535559" lat="40.7157790" lon="-73.9463030"/>
+  <node id="42467850" lat="40.7123780" lon="-73.9440320"/>
+  <node id="42502970" lat="40.7125370" lon="-73.9423500"/>
+  <node id="42514870" lat="40.7122180" lon="-73.9457170"/>
+  <node id="42467848" lat="40.7116410" lon="-73.9439110">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42502968" lat="40.7118010" lon="-73.9422280"/>
+  <node id="42535541" lat="40.7114810" lon="-73.9455960">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42464409" lat="40.7127820" lon="-73.9372480"/>
+  <node id="42474056" lat="40.7125240" lon="-73.9383200"/>
+  <node id="42490339" lat="40.7133730" lon="-73.9348020">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42494193" lat="40.7124890" lon="-73.9384660"/>
+  <node id="42524611" lat="40.7137990" lon="-73.9331790">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="6908682220" lat="40.7138870" lon="-73.9328256"/>
+  <node id="42491164" lat="40.7091780" lon="-73.9468530"/>
+  <node id="42520572" lat="40.7088030" lon="-73.9507600"/>
+  <node id="42523854" lat="40.7090150" lon="-73.9485390"/>
+  <node id="42514870" lat="40.7122180" lon="-73.9457170"/>
+  <node id="42535541" lat="40.7114810" lon="-73.9455960">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42490951" lat="40.7091373" lon="-73.9508170"/>
+  <node id="4593135573" lat="40.7090392" lon="-73.9508003"/>
+  <node id="42520572" lat="40.7088030" lon="-73.9507600"/>
+  <node id="4593135573" lat="40.7090392" lon="-73.9508003"/>
+  <node id="42520572" lat="40.7088030" lon="-73.9507600"/>
+  <node id="5481854381" lat="40.7083406" lon="-73.9506870"/>
+  <node id="42474162" lat="40.7081700" lon="-73.9506600"/>
+  <node id="5481854381" lat="40.7083406" lon="-73.9506870"/>
+  <node id="42494193" lat="40.7124890" lon="-73.9384660"/>
+  <node id="42494194" lat="40.7132019" lon="-73.9388003"/>
+  <node id="42514879" lat="40.7128761" lon="-73.9401312"/>
+  <node id="42524393" lat="40.7139460" lon="-73.9406770"/>
+  <node id="42467844" lat="40.7109010" lon="-73.9437880">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42502965" lat="40.7110600" lon="-73.9421050"/>
+  <node id="42513647" lat="40.7112180" lon="-73.9404230"/>
+  <node id="42467831" lat="40.7080710" lon="-73.9433220"/>
+  <node id="42467835" lat="40.7087810" lon="-73.9434400"/>
+  <node id="42467844" lat="40.7109010" lon="-73.9437880">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42523550" lat="40.7077820" lon="-73.9385280"/>
+  <node id="42529171" lat="40.7084950" lon="-73.9388640"/>
+  <node id="42467831" lat="40.7080710" lon="-73.9433220"/>
+  <node id="42502957" lat="40.7082300" lon="-73.9416400"/>
+  <node id="42513654" lat="40.7083900" lon="-73.9399580"/>
+  <node id="42529171" lat="40.7084950" lon="-73.9388640"/>
+  <node id="42467844" lat="40.7109010" lon="-73.9437880">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42467848" lat="40.7116410" lon="-73.9439110">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42467850" lat="40.7123780" lon="-73.9440320"/>
+  <node id="42467858" lat="40.7130870" lon="-73.9441480">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42502968" lat="40.7118010" lon="-73.9422280"/>
+  <node id="42502970" lat="40.7125370" lon="-73.9423500"/>
+  <node id="42494193" lat="40.7124890" lon="-73.9384660"/>
+  <node id="42502968" lat="40.7118010" lon="-73.9422280"/>
+  <node id="42513634" lat="40.7119620" lon="-73.9406880"/>
+  <node id="42476825" lat="40.7067046" lon="-73.9357059"/>
+  <node id="42476829" lat="40.7070670" lon="-73.9337910"/>
+  <node id="42479987" lat="40.7058680" lon="-73.9362340"/>
+  <node id="42479990" lat="40.7051770" lon="-73.9360020"/>
+  <node id="42487173" lat="40.7067920" lon="-73.9337110"/>
+  <node id="42487175" lat="40.7070510" lon="-73.9320860"/>
+  <node id="42487177" lat="40.7071530" lon="-73.9314790"/>
+  <node id="42490308" lat="40.7056560" lon="-73.9317000"/>
+  <node id="42490911" lat="40.7053930" lon="-73.9333210"/>
+  <node id="42499796" lat="40.7033045" lon="-73.9342298"/>
+  <node id="42499797" lat="40.7026740" lon="-73.9339510"/>
+  <node id="42500467" lat="40.7017500" lon="-73.9350890"/>
+  <node id="42500468" lat="40.7023150" lon="-73.9353360"/>
+  <node id="42509036" lat="40.7033720" lon="-73.9376480"/>
+  <node id="42509037" lat="40.7039354" lon="-73.9347908"/>
+  <node id="42509039" lat="40.7042770" lon="-73.9330110"/>
+  <node id="42487173" lat="40.7067920" lon="-73.9337110"/>
+  <node id="42490911" lat="40.7053930" lon="-73.9333210"/>
+  <node id="42501152" lat="40.7063710" lon="-73.9335940"/>
+  <node id="42509039" lat="40.7042770" lon="-73.9330110"/>
+  <node id="42518762" lat="40.7035770" lon="-73.9328150"/>
+  <node id="42518767" lat="40.7039940" lon="-73.9329350"/>
+  <node id="42518773" lat="40.7047010" lon="-73.9331250"/>
+  <node id="42518776" lat="40.7049710" lon="-73.9332010"/>
+  <node id="42518781" lat="40.7056690" lon="-73.9334000"/>
+  <node id="42518787" lat="40.7060950" lon="-73.9335120"/>
+  <node id="42490300" lat="40.7042570" lon="-73.9313090"/>
+  <node id="42518767" lat="40.7039940" lon="-73.9329350"/>
+  <node id="42490311" lat="40.7063540" lon="-73.9318940"/>
+  <node id="42518787" lat="40.7060950" lon="-73.9335120"/>
+  <node id="42518776" lat="40.7049710" lon="-73.9332010"/>
+  <node id="42528875" lat="40.7046275" lon="-73.9350195"/>
+  <node id="42499796" lat="40.7033045" lon="-73.9342298"/>
+  <node id="42513684" lat="40.7027103" lon="-73.9373154"/>
+  <node id="42518762" lat="40.7035770" lon="-73.9328150"/>
+  <node id="42529847" lat="40.7032407" lon="-73.9345612"/>
+  <node id="42500467" lat="40.7017500" lon="-73.9350890"/>
+  <node id="42513686" lat="40.7013030" lon="-73.9367290"/>
+  <node id="42486707" lat="40.7024310" lon="-73.9327920"/>
+  <node id="42504122" lat="40.7034579" lon="-73.9319307"/>
+  <node id="42509037" lat="40.7039354" lon="-73.9347908"/>
+  <node id="42529847" lat="40.7032407" lon="-73.9345612"/>
+  <node id="42479990" lat="40.7051770" lon="-73.9360020"/>
+  <node id="42521993" lat="40.7053194" lon="-73.9352481"/>
+  <node id="42518781" lat="40.7056690" lon="-73.9334000"/>
+  <node id="42521993" lat="40.7053194" lon="-73.9352481"/>
+  <node id="42490303" lat="40.7049580" lon="-73.9315070"/>
+  <node id="42518773" lat="40.7047010" lon="-73.9331250"/>
+  <node id="42509037" lat="40.7039354" lon="-73.9347908"/>
+  <node id="42528875" lat="40.7046275" lon="-73.9350195"/>
+  <node id="42476811" lat="40.7065855" lon="-73.9356665"/>
+  <node id="42501147" lat="40.7060116" lon="-73.9354769"/>
+  <node id="42476811" lat="40.7065855" lon="-73.9356665"/>
+  <node id="42476825" lat="40.7067046" lon="-73.9357059"/>
+  <node id="42521993" lat="40.7053194" lon="-73.9352481"/>
+  <node id="42528875" lat="40.7046275" lon="-73.9350195"/>
+  <node id="42501147" lat="40.7060116" lon="-73.9354769"/>
+  <node id="42521993" lat="40.7053194" lon="-73.9352481"/>
+  <node id="42490308" lat="40.7056560" lon="-73.9317000"/>
+  <node id="42490311" lat="40.7063540" lon="-73.9318940"/>
+  <node id="42476829" lat="40.7070670" lon="-73.9337910"/>
+  <node id="42487173" lat="40.7067920" lon="-73.9337110"/>
+  <node id="42496377" lat="40.7074870" lon="-73.9339190"/>
+  <node id="42504116" lat="40.7031710" lon="-73.9326980"/>
+  <node id="42518762" lat="40.7035770" lon="-73.9328150"/>
+  <node id="42504158" lat="40.7055581" lon="-73.9266202"/>
+  <node id="42505684" lat="40.7057486" lon="-73.9266450"/>
+  <node id="42504160" lat="40.7057034" lon="-73.9261699">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42505684" lat="40.7057486" lon="-73.9266450"/>
+  <node id="42504129" lat="40.7041310" lon="-73.9302370"/>
+  <node id="42520106" lat="40.7050970" lon="-73.9306320"/>
+  <node id="42505687" lat="40.7071460" lon="-73.9270150"/>
+  <node id="42525014" lat="40.7065140" lon="-73.9308930"/>
+  <node id="42525015" lat="40.7068790" lon="-73.9286430"/>
+  <node id="42490914" lat="40.7058800" lon="-73.9303100"/>
+  <node id="42504145" lat="40.7047170" lon="-73.9287380"/>
+  <node id="42520109" lat="40.7052480" lon="-73.9296960"/>
+  <node id="42525014" lat="40.7065140" lon="-73.9308930"/>
+  <node id="42511908" lat="40.7052566" lon="-73.9253332"/>
+  <node id="42530350" lat="40.7036670" lon="-73.9268910"/>
+  <node id="42496649" lat="40.7021920" lon="-73.9283390"/>
+  <node id="42530350" lat="40.7036670" lon="-73.9268910"/>
+  <node id="42496644" lat="40.7026200" lon="-73.9290910"/>
+  <node id="42525548" lat="40.7040920" lon="-73.9276440"/>
+  <node id="42504160" lat="40.7057034" lon="-73.9261699">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42525548" lat="40.7040920" lon="-73.9276440"/>
+  <node id="42505684" lat="40.7057486" lon="-73.9266450"/>
+  <node id="42520112" lat="40.7054820" lon="-73.9282540"/>
+  <node id="42520106" lat="40.7050970" lon="-73.9306320"/>
+  <node id="42520109" lat="40.7052480" lon="-73.9296960"/>
+  <node id="42520109" lat="40.7052480" lon="-73.9296960"/>
+  <node id="42520112" lat="40.7054820" lon="-73.9282540"/>
+  <node id="42490921" lat="40.7064450" lon="-73.9268240"/>
+  <node id="42505684" lat="40.7057486" lon="-73.9266450"/>
+  <node id="42484352" lat="40.7045260" lon="-73.9283950"/>
+  <node id="42504145" lat="40.7047170" lon="-73.9287380"/>
+  <node id="42504158" lat="40.7055581" lon="-73.9266202"/>
+  <node id="42504160" lat="40.7057034" lon="-73.9261699">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42484352" lat="40.7045260" lon="-73.9283950"/>
+  <node id="42525548" lat="40.7040920" lon="-73.9276440"/>
+  <node id="42525548" lat="40.7040920" lon="-73.9276440"/>
+  <node id="42530350" lat="40.7036670" lon="-73.9268910"/>
+  <node id="42505684" lat="40.7057486" lon="-73.9266450"/>
+  <node id="6948919794" lat="40.7057987" lon="-73.9260062"/>
+  <node id="42487186" lat="40.7081030" lon="-73.9255780"/>
+  <node id="42487188" lat="40.7083610" lon="-73.9240030"/>
+  <node id="42504181" lat="40.7084044" lon="-73.9230402"/>
+  <node id="42490298" lat="40.7037730" lon="-73.9311550"/>
+  <node id="42490300" lat="40.7042570" lon="-73.9313090"/>
+  <node id="42490303" lat="40.7049580" lon="-73.9315070"/>
+  <node id="42490308" lat="40.7056560" lon="-73.9317000"/>
+  <node id="42464209" lat="40.7103440" lon="-73.9229330"/>
+  <node id="42502278" lat="40.7095320" lon="-73.9260740"/>
+  <node id="42502281" lat="40.7099290" lon="-73.9245360"/>
+  <node id="551613174" lat="40.7108012" lon="-73.9212100"/>
+  <node id="5436391835" lat="40.7091230" lon="-73.9276568"/>
+  <node id="42474020" lat="40.7124250" lon="-73.9238590"/>
+  <node id="42477659" lat="40.7128398" lon="-73.9222082"/>
+  <node id="42509746" lat="40.7120140" lon="-73.9254210"/>
+  <node id="42487186" lat="40.7081030" lon="-73.9255780"/>
+  <node id="42496394" lat="40.7088040" lon="-73.9257650"/>
+  <node id="42502278" lat="40.7095320" lon="-73.9260740"/>
+  <node id="42504162" lat="40.7066428" lon="-73.9250492"/>
+  <node id="42516137" lat="40.7074060" lon="-73.9253830"/>
+  <node id="42484144" lat="40.7141280" lon="-73.9281383">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42502455" lat="40.7129650" lon="-73.9276050"/>
+  <node id="42511148" lat="40.7116130" lon="-73.9269970"/>
+  <node id="42516152" lat="40.7109390" lon="-73.9267020"/>
+  <node id="42516154" lat="40.7122900" lon="-73.9273040"/>
+  <node id="42516166" lat="40.7149950" lon="-73.9285110">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="1275778384" lat="40.7142893" lon="-73.9282077">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42516137" lat="40.7074060" lon="-73.9253830"/>
+  <node id="1275778389" lat="40.7075279" lon="-73.9240258"/>
+  <node id="42487180" lat="40.7075770" lon="-73.9288380"/>
+  <node id="42490916" lat="40.7061810" lon="-73.9284500"/>
+  <node id="42496387" lat="40.7082770" lon="-73.9290260"/>
+  <node id="42504156" lat="40.7049640" lon="-73.9281090"/>
+  <node id="42520112" lat="40.7054820" lon="-73.9282540"/>
+  <node id="42525015" lat="40.7068790" lon="-73.9286430"/>
+  <node id="42474017" lat="40.7117470" lon="-73.9235610"/>
+  <node id="42505693" lat="40.7105330" lon="-73.9282680"/>
+  <node id="42509743" lat="40.7113400" lon="-73.9251260"/>
+  <node id="42516152" lat="40.7109390" lon="-73.9267020"/>
+  <node id="42474010" lat="40.7093330" lon="-73.9224830"/>
+  <node id="42496384" lat="40.7077860" lon="-73.9320720"/>
+  <node id="42496387" lat="40.7082770" lon="-73.9290260"/>
+  <node id="42496391" lat="40.7085420" lon="-73.9274070"/>
+  <node id="42496394" lat="40.7088040" lon="-73.9257650"/>
+  <node id="42496398" lat="40.7090650" lon="-73.9241870"/>
+  <node id="3325564426" lat="40.7093909" lon="-73.9219061"/>
+  <node id="42487175" lat="40.7070510" lon="-73.9320860"/>
+  <node id="42490311" lat="40.7063540" lon="-73.9318940"/>
+  <node id="42490315" lat="40.7077460" lon="-73.9323135"/>
+  <node id="42490311" lat="40.7063540" lon="-73.9318940"/>
+  <node id="42525014" lat="40.7065140" lon="-73.9308930"/>
+  <node id="42487177" lat="40.7071530" lon="-73.9314790"/>
+  <node id="42496384" lat="40.7077860" lon="-73.9320720"/>
+  <node id="42525014" lat="40.7065140" lon="-73.9308930"/>
+  <node id="42487177" lat="40.7071530" lon="-73.9314790"/>
+  <node id="42487180" lat="40.7075770" lon="-73.9288380"/>
+  <node id="42487180" lat="40.7075770" lon="-73.9288380"/>
+  <node id="42487182" lat="40.7078420" lon="-73.9272120"/>
+  <node id="42511908" lat="40.7052566" lon="-73.9253332"/>
+  <node id="42512091" lat="40.7070290" lon="-73.9235910"/>
+  <node id="42490303" lat="40.7049580" lon="-73.9315070"/>
+  <node id="42520106" lat="40.7050970" lon="-73.9306320"/>
+  <node id="42474005" lat="40.7090060" lon="-73.9223370"/>
+  <node id="42504160" lat="40.7057034" lon="-73.9261699">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42504162" lat="40.7066428" lon="-73.9250492"/>
+  <node id="42504174" lat="40.7073940" lon="-73.9241690"/>
+  <node id="42504177" lat="40.7078030" lon="-73.9237314"/>
+  <node id="42504181" lat="40.7084044" lon="-73.9230402"/>
+  <node id="1275778389" lat="40.7075279" lon="-73.9240258"/>
+  <node id="3325564426" lat="40.7093909" lon="-73.9219061"/>
+  <node id="6948919794" lat="40.7057987" lon="-73.9260062"/>
+  <node id="42490308" lat="40.7056560" lon="-73.9317000"/>
+  <node id="42490914" lat="40.7058800" lon="-73.9303100"/>
+  <node id="42490916" lat="40.7061810" lon="-73.9284500"/>
+  <node id="42490921" lat="40.7064450" lon="-73.9268240"/>
+  <node id="42487182" lat="40.7078420" lon="-73.9272120"/>
+  <node id="42490921" lat="40.7064450" lon="-73.9268240"/>
+  <node id="42496391" lat="40.7085420" lon="-73.9274070"/>
+  <node id="42496931" lat="40.7132370" lon="-73.9294780"/>
+  <node id="42502458" lat="40.7125759" lon="-73.9291836"/>
+  <node id="42505687" lat="40.7071460" lon="-73.9270150"/>
+  <node id="42505693" lat="40.7105330" lon="-73.9282680"/>
+  <node id="42505695" lat="40.7112076" lon="-73.9285713"/>
+  <node id="42505696" lat="40.7118870" lon="-73.9288768"/>
+  <node id="5436391835" lat="40.7091230" lon="-73.9276568"/>
+  <node id="42511913" lat="40.7044126" lon="-73.9238195"/>
+  <node id="42512097" lat="40.7061240" lon="-73.9221360"/>
+  <node id="42516312" lat="40.7028100" lon="-73.9253890"/>
+  <node id="42516314" lat="40.7071820" lon="-73.9210560"/>
+  <node id="42809927" lat="40.7114020" lon="-73.9167480"/>
+  <node id="42827574" lat="40.7102900" lon="-73.9178830"/>
+  <node id="42898825" lat="40.7082548" lon="-73.9199510"/>
+  <node id="42898828" lat="40.7093820" lon="-73.9188100"/>
+  <node id="42496377" lat="40.7074870" lon="-73.9339190"/>
+  <node id="42474042" lat="40.7086780" lon="-73.9369800"/>
+  <node id="42474044" lat="40.7093778" lon="-73.9370963"/>
+  <node id="42474048" lat="40.7100914" lon="-73.9372086"/>
+  <node id="42474051" lat="40.7111837" lon="-73.9376747"/>
+  <node id="42490332" lat="40.7121230" lon="-73.9342570"/>
+  <node id="42496923" lat="40.7116930" lon="-73.9358080"/>
+  <node id="42474050" lat="40.7104546" lon="-73.9373295"/>
+  <node id="42490329" lat="40.7113360" lon="-73.9338930"/>
+  <node id="42502444" lat="40.7109360" lon="-73.9354680"/>
+  <node id="42496923" lat="40.7116930" lon="-73.9358080"/>
+  <node id="42502444" lat="40.7109360" lon="-73.9354680"/>
+  <node id="42511131" lat="40.7095935" lon="-73.9348751"/>
+  <node id="42518747" lat="40.7089068" lon="-73.9345718"/>
+  <node id="42518750" lat="40.7102777" lon="-73.9351773"/>
+  <node id="42490318" lat="40.7082380" lon="-73.9325230"/>
+  <node id="42496384" lat="40.7077860" lon="-73.9320720"/>
+  <node id="42490318" lat="40.7082380" lon="-73.9325230"/>
+  <node id="42490322" lat="40.7092958" lon="-73.9329869">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42490325" lat="40.7099880" lon="-73.9332960"/>
+  <node id="42490327" lat="40.7106690" lon="-73.9336020"/>
+  <node id="42490329" lat="40.7113360" lon="-73.9338930"/>
+  <node id="42490332" lat="40.7121230" lon="-73.9342570"/>
+  <node id="42490334" lat="40.7127540" lon="-73.9345340"/>
+  <node id="42490315" lat="40.7077460" lon="-73.9323135"/>
+  <node id="42490318" lat="40.7082380" lon="-73.9325230"/>
+  <node id="42490327" lat="40.7106690" lon="-73.9336020"/>
+  <node id="42518750" lat="40.7102777" lon="-73.9351773"/>
+  <node id="42474048" lat="40.7100914" lon="-73.9372086"/>
+  <node id="42518750" lat="40.7102777" lon="-73.9351773"/>
+  <node id="42464409" lat="40.7127820" lon="-73.9372480"/>
+  <node id="42464411" lat="40.7131660" lon="-73.9373830"/>
+  <node id="42490315" lat="40.7077460" lon="-73.9323135"/>
+  <node id="42496384" lat="40.7077860" lon="-73.9320720"/>
+  <node id="42490334" lat="40.7127540" lon="-73.9345340"/>
+  <node id="42490339" lat="40.7133730" lon="-73.9348020">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="42502453" lat="40.7133750" lon="-73.9260290"/>
+  <node id="42502455" lat="40.7129650" lon="-73.9276050"/>
+  <node id="42502458" lat="40.7125759" lon="-73.9291836"/>
+  <node id="42484146" lat="40.7139782" lon="-73.9263023">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="42502453" lat="40.7133750" lon="-73.9260290"/>
+  <node id="42509743" lat="40.7113400" lon="-73.9251260"/>
+  <node id="42509746" lat="40.7120140" lon="-73.9254210"/>
+  <node id="42509751" lat="40.7126930" lon="-73.9257300"/>
+  <node id="42505696" lat="40.7118870" lon="-73.9288768"/>
+  <node id="42509751" lat="40.7126930" lon="-73.9257300"/>
+  <node id="42516154" lat="40.7122900" lon="-73.9273040"/>
+  <node id="42505695" lat="40.7112076" lon="-73.9285713"/>
+  <node id="42511148" lat="40.7116130" lon="-73.9269970"/>
+  <node id="42477874" lat="40.7047640" lon="-73.9199570"/>
+  <node id="42492387" lat="40.7056700" lon="-73.9214100"/>
+  <node id="42504174" lat="40.7073940" lon="-73.9241690"/>
+  <node id="42506555" lat="40.7052160" lon="-73.9206840"/>
+  <node id="42512091" lat="40.7070290" lon="-73.9235910"/>
+  <node id="42512094" lat="40.7065760" lon="-73.9228630"/>
+  <node id="42512097" lat="40.7061240" lon="-73.9221360"/>
+  <node id="42506544" lat="40.7019570" lon="-73.9238860"/>
+  <node id="42506548" lat="40.7035554" lon="-73.9223187"/>
+  <node id="42506548" lat="40.7035554" lon="-73.9223187"/>
+  <node id="42506555" lat="40.7052160" lon="-73.9206840"/>
+  <node id="42506555" lat="40.7052160" lon="-73.9206840"/>
+  <node id="42506560" lat="40.7063050" lon="-73.9195740"/>
+  <node id="42492387" lat="40.7056700" lon="-73.9214100"/>
+  <node id="42492389" lat="40.7067440" lon="-73.9203150"/>
+  <node id="42492385" lat="40.7039858" lon="-73.9230722"/>
+  <node id="42492387" lat="40.7056700" lon="-73.9214100"/>
+  <node id="42474000" lat="40.7076520" lon="-73.9217650"/>
+  <node id="42474002" lat="40.7084840" lon="-73.9221040"/>
+  <node id="42474005" lat="40.7090060" lon="-73.9223370"/>
+  <node id="42474000" lat="40.7076520" lon="-73.9217650"/>
+  <node id="42477877" lat="40.7058670" lon="-73.9188330"/>
+  <node id="42492389" lat="40.7067440" lon="-73.9203150"/>
+  <node id="42504181" lat="40.7084044" lon="-73.9230402"/>
+  <node id="42506560" lat="40.7063050" lon="-73.9195740"/>
+  <node id="42516314" lat="40.7071820" lon="-73.9210560"/>
+  <node id="42530355" lat="40.7080590" lon="-73.9225390"/>
+  <node id="42859100" lat="40.7078211" lon="-73.9192259"/>
+  <node id="42898825" lat="40.7082548" lon="-73.9199510"/>
+  <node id="42907440" lat="40.7087015" lon="-73.9206917"/>
+  <node id="597700282" lat="40.7091315" lon="-73.9214396"/>
+  <node id="3325564425" lat="40.7073807" lon="-73.9184827">
+    <tag k="highway" v="stop"/>
+  </node>
+  <node id="3325564426" lat="40.7093909" lon="-73.9219061"/>
+  <node id="42512091" lat="40.7070290" lon="-73.9235910"/>
+  <node id="42530355" lat="40.7080590" lon="-73.9225390"/>
+  <node id="42492389" lat="40.7067440" lon="-73.9203150"/>
+  <node id="42859100" lat="40.7078211" lon="-73.9192259"/>
+  <node id="42487188" lat="40.7083610" lon="-73.9240030"/>
+  <node id="42496398" lat="40.7090650" lon="-73.9241870"/>
+  <node id="42502281" lat="40.7099290" lon="-73.9245360"/>
+  <node id="42504177" lat="40.7078030" lon="-73.9237314"/>
+  <node id="42881140" lat="40.7105435" lon="-73.9207414"/>
+  <node id="551613174" lat="40.7108012" lon="-73.9212100"/>
+  <node id="42827564" lat="40.7114560" lon="-73.9198600"/>
+  <node id="42474017" lat="40.7117470" lon="-73.9235610"/>
+  <node id="42474020" lat="40.7124250" lon="-73.9238590"/>
+  <node id="42474031" lat="40.7139598" lon="-73.9245299"/>
+  <node id="5330321649" lat="40.7140417" lon="-73.9245556"/>
+  <node id="5330321652" lat="40.7138830" lon="-73.9244975"/>
+  <node id="42474002" lat="40.7084840" lon="-73.9221040"/>
+  <node id="42530355" lat="40.7080590" lon="-73.9225390"/>
+  <node id="42474002" lat="40.7084840" lon="-73.9221040"/>
+  <node id="597700282" lat="40.7091315" lon="-73.9214396"/>
+  <node id="42477659" lat="40.7128398" lon="-73.9222082"/>
+  <node id="42827564" lat="40.7114560" lon="-73.9198600"/>
+  <node id="42881140" lat="40.7105435" lon="-73.9207414"/>
+  <node id="42881140" lat="40.7105435" lon="-73.9207414"/>
+  <node id="3325564426" lat="40.7093909" lon="-73.9219061"/>
+  <node id="42464209" lat="40.7103440" lon="-73.9229330"/>
+  <node id="42474005" lat="40.7090060" lon="-73.9223370"/>
+  <node id="42474010" lat="40.7093330" lon="-73.9224830"/>
+  <node id="42477659" lat="40.7128398" lon="-73.9222082"/>
+  <node id="5330321653" lat="40.7138654" lon="-73.9238972"/>
+
+</osm>
