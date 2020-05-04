@@ -1,5 +1,5 @@
 from math import atan2, radians, degrees, sin, cos
-from Project.source_code.datapreprocessing import calculateDistance
+from datapreprocessing import calculateDistance
 
 from mysql.connector import connect
 import sys
