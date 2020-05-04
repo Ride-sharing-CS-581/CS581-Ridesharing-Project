@@ -71,7 +71,7 @@ source_latitude_min = 40.7714
 source_latitude_max = 40.7754
 source_longitude_max = -73.8572
 source_longitude_min = -73.8875
-random_pool_Ids = list(range(4262000, 4300000))
+random_pool_Ids = list(range(7200000, 7300000))
 
 start_time = ""
 
@@ -372,7 +372,7 @@ def main():
     try:
         alarm = Alarm(300)
         # Uncomment to start the alarm to run program for 300 seconds
-        # alarm.start()
+        #alarm.start()
         start_time = datetime.now()
         load_data_from_source()
         print("Terminating.")
