@@ -21,7 +21,7 @@ The objective of this project is to provide an analysis of ride-shared trips wit
 ## System setup
   - Install MySQL server 8 and MySQL workbench. Ensure that workbench is able to connect to local mysql server using 'root' user and password as 'root'. This user name and password is used inside the project.
   - Install Python 3.5 or above. If 'pip' module is not installed, it has to be installed separately
-  - Install these python modules: pandas, networkx, mysql-connector-python
+  - Install these python modules: pandas, networkx, mysql-connector-python, requests
   - Install Docker or Docker Toolbox from the following links : 
       - **Docker**
           - Windows: https://docs.docker.com/docker-for-windows/install/
