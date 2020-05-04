@@ -1,7 +1,7 @@
 import mysql.connector
 
 import pandas as pd
-from Project.source_code.output_graph import *
+from output_graph import *
 
 try:
 
