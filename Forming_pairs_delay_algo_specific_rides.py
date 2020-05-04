@@ -69,7 +69,7 @@ source_latitude_min = 40.7714
 source_latitude_max = 40.7754
 source_longitude_max = -73.8572
 source_longitude_min = -73.8875
-random_pool_Ids = list(range(7039000, 7050000))
+random_pool_Ids = list(range(7200000, 7300000))
 start_time = ""
 
 G = nx.Graph()
@@ -341,38 +341,40 @@ def load_data_from_source():
         # Set pool end date based on pool start date and pool window
         pool_end_date = pool_start_date + timedelta(minutes=pool_window_time2)
 
-        # Comment the loop below to not process for pool window of size 10 mins
-        while pool_end_date <= tripWindow_end_time:
-            # print(" Fetching records for pool start and end dates:{} {} ".format(pool_start_date, pool_end_date))
-            FromLaguardiaRecords = tripData.loc[
-                (tripData['pickup_longitude'].between(source_longitude_min, source_longitude_max)) & (
-                    tripData['pickup_latitude'].between(source_latitude_min, source_latitude_max))
-                &
-                (tripData['tpep_pickup_datetime']).between(pool_start_date, pool_end_date)]
-            ToLaguardiaRecords = tripData.loc[
-                (tripData['dropoff_longitude'].between(source_longitude_min, source_longitude_max)) & (
-                    tripData['dropoff_latitude'].between(source_latitude_min, source_latitude_max)) &
-                (tripData['tpep_pickup_datetime']).between(pool_start_date, pool_end_date)]
-            # print("len is " + str(len(FromLaguardiaRecords)) + " " + str(len(ToLaguardiaRecords)))
-            pick_a_ride(FromLaguardiaRecords, "From Laguardia", pool_window_time2)
-            pick_a_ride(ToLaguardiaRecords, "To Laguardia", pool_window_time2)
-
-            pool_start_date = pool_end_date + timedelta(seconds=1)
-            pool_end_date = pool_end_date + timedelta(minutes=pool_window_time2)
-        # Comment the loop below to not process for pool window of size 10 mins
-        if pool_start_date < tripWindow_end_time and pool_end_date > tripWindow_end_time:
-            FromLaguardiaRecords = tripData.loc[
-                (tripData['pickup_longitude'].between(source_longitude_min, source_longitude_max)) & (
-                    tripData['pickup_latitude'].between(source_latitude_min, source_latitude_max))
-                & (tripData['tpep_pickup_datetime']).between(pool_start_date, tripWindow_end_time)]
-            ToLaguardiaRecords = tripData.loc[
-                (tripData['dropoff_longitude'].between(source_longitude_min, source_longitude_max)) & (
-                    tripData['dropoff_latitude'].between(source_latitude_min, source_latitude_max)) &
-                (tripData['tpep_pickup_datetime']).between(pool_start_date, tripWindow_end_time)]
-            # print("len is " + str(len(FromLaguardiaRecords)) + " " + str(len(ToLaguardiaRecords)))
-
-            pick_a_ride(FromLaguardiaRecords, "From Laguardia", pool_window_time2)
-            pick_a_ride(ToLaguardiaRecords, "To Laguardia", pool_window_time2)
+        # # Uncomment the loop below to process for pool window of size 10 mins
+        #
+        # while pool_end_date <= tripWindow_end_time:
+        #     # print(" Fetching records for pool start and end dates:{} {} ".format(pool_start_date, pool_end_date))
+        #     FromLaguardiaRecords = tripData.loc[
+        #         (tripData['pickup_longitude'].between(source_longitude_min, source_longitude_max)) & (
+        #             tripData['pickup_latitude'].between(source_latitude_min, source_latitude_max))
+        #         &
+        #         (tripData['tpep_pickup_datetime']).between(pool_start_date, pool_end_date)]
+        #     ToLaguardiaRecords = tripData.loc[
+        #         (tripData['dropoff_longitude'].between(source_longitude_min, source_longitude_max)) & (
+        #             tripData['dropoff_latitude'].between(source_latitude_min, source_latitude_max)) &
+        #         (tripData['tpep_pickup_datetime']).between(pool_start_date, pool_end_date)]
+        #     # print("len is " + str(len(FromLaguardiaRecords)) + " " + str(len(ToLaguardiaRecords)))
+        #     pick_a_ride(FromLaguardiaRecords, "From Laguardia", pool_window_time2)
+        #     pick_a_ride(ToLaguardiaRecords, "To Laguardia", pool_window_time2)
+        #
+        #     pool_start_date = pool_end_date + timedelta(seconds=1)
+        #     pool_end_date = pool_end_date + timedelta(minutes=pool_window_time2)
+        # # Uncomment the block below to process for pool window of size 10 mins
+        #
+        # if pool_start_date < tripWindow_end_time and pool_end_date > tripWindow_end_time:
+        #     FromLaguardiaRecords = tripData.loc[
+        #         (tripData['pickup_longitude'].between(source_longitude_min, source_longitude_max)) & (
+        #             tripData['pickup_latitude'].between(source_latitude_min, source_latitude_max))
+        #         & (tripData['tpep_pickup_datetime']).between(pool_start_date, tripWindow_end_time)]
+        #     ToLaguardiaRecords = tripData.loc[
+        #         (tripData['dropoff_longitude'].between(source_longitude_min, source_longitude_max)) & (
+        #             tripData['dropoff_latitude'].between(source_latitude_min, source_latitude_max)) &
+        #         (tripData['tpep_pickup_datetime']).between(pool_start_date, tripWindow_end_time)]
+        #     # print("len is " + str(len(FromLaguardiaRecords)) + " " + str(len(ToLaguardiaRecords)))
+        #
+        #     pick_a_ride(FromLaguardiaRecords, "From Laguardia", pool_window_time2)
+        #     pick_a_ride(ToLaguardiaRecords, "To Laguardia", pool_window_time2)
 
 
 def main():
@@ -382,7 +384,7 @@ def main():
     try:
         alarm = Alarm(300)
         # Uncomment the below statement to start the alarm to run program for 300 seconds
-        # alarm.start()
+        #alarm.start()
         start_time = datetime.now()
         load_data_from_source()
         print("Terminating.")
