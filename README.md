@@ -89,3 +89,6 @@ The objective of this project is to provide an analysis of ride-shared trips wit
   - Ensure that python is successfuly installed and modules are installed.
   - Ensure that the two **algorithm files (Approach 1)**,mysqlUtilites.py, datapreprocessing.py are in the same project folder
   - Open command prompt, type 'python fileName.py', where fileName is one of the algorithm files.
+
+# Queries for average distance saved, trips saved and computation time
+  - Please check Queries folder
