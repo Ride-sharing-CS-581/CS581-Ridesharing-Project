@@ -65,7 +65,7 @@ The objective of this project is to provide an analysis of ride-shared trips wit
         
 
 # Graph results depicting the analysis
-  - The results are shown in **graphresults.pdf**. It is also available in the **finalreport.pdf**
+  - The results are shown **Results** sections of **finalreport.pdf**
   
 # Running the program for only 5 mins.
   - In each of the algorithm file, the line below has to be uncommented
