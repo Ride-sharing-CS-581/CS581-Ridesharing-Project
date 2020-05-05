@@ -350,6 +350,8 @@ def load_data_from_source():
         #     pool_start_date = pool_end_date + timedelta(seconds=1)
         #     pool_end_date = pool_end_date + timedelta(minutes=pool_window_time2)
         #
+        # Uncomment this loop to process for pool window of size 10 mins
+        #
         # if pool_start_date < tripWindow_end_time and pool_end_date > tripWindow_end_time:
         #     FromLaguardiaRecords = tripData.loc[
         #         (tripData['pickup_longitude'].between(source_longitude_min, source_longitude_max)) & (
