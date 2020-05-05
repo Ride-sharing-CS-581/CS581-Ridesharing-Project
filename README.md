@@ -14,7 +14,7 @@ The objective of this project is to provide an analysis of ride-shared trips wit
   - Determine the trips saved per pool with respect to total unshared trips
   - Compare the average computation time for different pool sizes
   - Run the algorithm for peak period with different delays for a day of month
-  - Extrapolate the 6 month results to produce yearly average results
+  - Extrapolate the 3 month results to produce 6 months average results (Jan 2016 - Jun 2016)
   - Identify the impact of intersections on computation time in the form of graphs
   - Analyzing distance and trips saved based of percentage of passengers willing to ride-share
     
@@ -28,7 +28,7 @@ The objective of this project is to provide an analysis of ride-shared trips wit
           - Ubuntu : https://docs.docker.com/engine/install/ubuntu/
       - **Docker Toolbox**
           - Windows: https://docs.docker.com/toolbox/toolbox_install_windows/
-      For Windows 10 users, Windows 10 Pro edition is required to setup Docker. If Windows 10 Home is present, Install Docker ToolBox.
+          - For Windows 10 users, Windows 10 Pro edition is required to setup Docker. If Windows 10 Home is present, Install Docker ToolBox.
   - Download newyork osrm file from the link : http://download.geofabrik.de/north-america/us/new-york-latest.osm.pbf
   - Follow the instructions for setting up local osrm server from this link : https://hub.docker.com/r/osrm/osrm-backend/
   - The minimum ram requirement is 12GB with no other higher process consuming ram. Depending on system configuration, the process may 
@@ -44,9 +44,12 @@ The objective of this project is to provide an analysis of ride-shared trips wit
   - Populate intersections table with the given .sql file. This is very important for the algorithm to use precomputed intersections.
   
 # Before running the algorithm, check the Configuration Parameters below in each of the algorithm file.
--   **Algorithm Files** :   
-    -       Forming_pairs_delay_algo.py 
+-   **Algorithm Files (Approach 1)** :
+    -       The files implementing **Approach 1 (described in the report)** are given below. It uses dense number of intersection points and is the files used for producing majority of our result graphs.
+            Forming_pairs_delay_algo.py 
             Forming_pairs_delay_algo_specific_rides.py ( Has logic to support x% of passengers willing to rideshare)
+-   **Algorithm Files (Approach 2)** :
+    -       Uses sparse number of intersection points. It's an experimental approach tried to reduce computation time.
 -   The files, each, has following variables to change algorithm behaviour
     -    **pool_window_time1** = 5 (Pool window size in minutes)
     -    **pool_window_time2** = 10 (Pool window size in minutes)
@@ -65,7 +68,7 @@ The objective of this project is to provide an analysis of ride-shared trips wit
         
 
 # Graph results depicting the analysis
-  - The results are shown in **graphresults.pdf**. It is also available in the **finalreport.pdf**
+  - The results are shown **Results** sections of **finalreport.pdf**
   
 # Running the program for only 5 mins.
   - In each of the algorithm file, the line below has to be uncommented
@@ -81,6 +84,6 @@ The objective of this project is to provide an analysis of ride-shared trips wit
 # Instructions to run the ridesharing algorithm files
   - The system has to be setup as specified in the system configuration.
   - Ensure that MySQL and docker api is functional.
-  - Ensure that python is sucessfuly installed and modules are installed.
-  - Ensure that the two **algorithm files**,mysqlUtilites.py, datapreprocessing.py are in the same project folder
+  - Ensure that python is successfuly installed and modules are installed.
+  - Ensure that the two **algorithm files (Approach 1)**,mysqlUtilites.py, datapreprocessing.py are in the same project folder
   - Open command prompt, type 'python fileName.py', where fileName is one of the algorithm files.
