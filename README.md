@@ -49,6 +49,7 @@ The objective of this project is to provide an analysis of ride-shared trips wit
     -       The files implementing **Approach 1 (described in the report)** are given below. It uses dense number of intersection points and is the files used for producing majority of our result graphs.
             Forming_pairs_delay_algo.py 
             Forming_pairs_delay_algo_specific_rides.py ( Has logic to support x% of passengers willing to rideshare)
+    - By default, pool window analysis of ridesharing for 10 mins is commented out in the code. Please check the comments in the code to uncomment it.Only pool window of size 5 mins is enabled in the code.
 -   **Algorithm Files (Approach 2)** :
     -       Uses sparse number of intersection points. It's an experimental approach tried to reduce computation time.
 -   The files, each, has following variables to change algorithm behaviour
