@@ -52,6 +52,7 @@ The objective of this project is to provide an analysis of ride-shared trips wit
     - By default, pool window analysis of ridesharing for 10 mins is commented out in the code. Please check the comments in the code to uncomment it.Only pool window of size 5 mins is enabled in the code.
 -   **Algorithm Files (Approach 2)** :
     -       Uses sparse number of intersection points. It's an experimental approach tried to reduce computation time.
+    -       Please check Approach2 folder for more information
 -   The files, each, has following variables to change algorithm behaviour
     -    **pool_window_time1** = 5 (Pool window size in minutes)
     -    **pool_window_time2** = 10 (Pool window size in minutes)
@@ -68,9 +69,6 @@ The objective of this project is to provide an analysis of ride-shared trips wit
         -    source_longitude_min = -73.8875
         
         
-
-# Graph results depicting the analysis
-  - The results are shown **Results** sections of **finalreport.pdf**
   
 # Running the program for only 5 mins.
   - In each of the algorithm file, the line below has to be uncommented
