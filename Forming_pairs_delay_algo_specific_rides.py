@@ -39,6 +39,7 @@ class Alarm(threading.Thread):
 
         if (len(df_mysql) == 0):
             logging.info("No data present in db")
+            print("No data present in db")
         else:
             number_of_pools_created = len(df_mysql)
             print("Number of pools created " + str(number_of_pools_created))
